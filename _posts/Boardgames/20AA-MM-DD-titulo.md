@@ -3,4 +3,4 @@ title: Título
 category: Boardgames
 ---
 
-![Image](./8ddc202956e6bbe94f49c236e5cacfb0.png)
+![Image](../../img/2bd667997ad3aef93ec80d69e5a474c5.png)
