@@ -1,6 +1,6 @@
 ---
 title: Náutico inagura vitória na série B, contra o Operário
-category: futebol
+category: Futebol
 ---
 
 O Náutico finalmente vence sua primeira partida na série B e consegue os 3 pontinhos, saindo da lanterna. Foi um jogo bonito de se assistir, com o time criando e construindo jogadas de ataque, algo que não acontecia.
@@ -37,14 +37,14 @@ Foi até num escanteio curto que Leo Passos marcou o gol que acabou sendo anulad
 <video width="350" controls>
   <source src="/img/futebol/2022-serieb/x-operario-24-04-22/tentativa1.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video> 
+</video>
 
 Felizmente na segunda tentativa conseguiu um passe decisivo para **Niltinho** que marcou o gol.
 
 <video width="350" controls>
   <source src="/img/futebol/2022-serieb/x-operario-24-04-22/gol1.mp4" type="video/mp4">
 Your browser does not support the video tag.
-</video> 
+</video>
 
 A jogada do gol também se incia com um passe de Jean Tavares para Jean Carlos furando a linha de defesa.
 

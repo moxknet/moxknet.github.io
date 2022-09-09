@@ -1,6 +1,6 @@
 ---
 title: Analisando os números dos melhores técnicos do mundo
-category: futebol
+category: Futebol
 ---
 
 As fontes dos dados são do site SofaScore. Aqui preciso fazer uma observação: infelimente o site não contém os dados de absolutamente todos os jogos disputados, ligas pequenas ou de menor relevância mundial não são computadas (ex: campeonatos estaduais no Brasil).

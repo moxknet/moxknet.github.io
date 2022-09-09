@@ -1,6 +1,6 @@
 ---
 title: Quais as melhores opções de técnicos pro Náutico em 2022?
-category: futebol
+category: Futebol
 ---
 
 Essa [reportagem do GE listou algumas opções de técnicos que estão diponíveis no mercado](https://ge.globo.com/pe/futebol/noticia/2022/04/12/lisca-enderson-jair-ventura-ney-franco-dado-com-nautico-atras-de-tecnico-veja-os-livres-no-mercado.ghtml). Não necessariamente todos estão dentro do orçamento do Náutico mas já é uma lista interessante pra ver as possibilidades.

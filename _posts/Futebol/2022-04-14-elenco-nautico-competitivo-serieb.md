@@ -1,6 +1,6 @@
 ---
 title: O elenco do Náutico é competitivo para a série B?
-category: futebol
+category: Futebol
 ---
 
 Vi muita gente criticando o plantel do Náutico dizendo que é de baixíssima qualidade técnica e individual quando comparado aos demais times da tabela. Mas será mesmo?

@@ -1,6 +1,6 @@
 ---
 title: Náutico começa a Série B de 2022 com derrota após duas falhas da defesa
-category: futebol
+category: Futebol
 ---
 
 Primeria rodada do Brasileirão série B de 2022 e o [Náutico já estreia com derrota fora de casa por 2x0 para o Londrina](https://ge.globo.com/pr/futebol/brasileirao-serie-b/jogo/10-04-2022/londrina-nautico.ghtml) (um dos times mais fracos para esta nova temporada).
@@ -29,4 +29,4 @@ O **segundo gol** teve origem num contra-ataque após um passe errado para Jean 
 
 Nos dois gols do Lodrina, o zagueiro Carlão ficou apenas assistindo a jogada.
 
-A defesa do Náutico está falhando muito, e cada falha dessas resulta em gol do time adversário. 
+A defesa do Náutico está falhando muito, e cada falha dessas resulta em gol do time adversário.

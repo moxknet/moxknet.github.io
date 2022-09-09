@@ -1,6 +1,6 @@
 ---
 title: Náutico demite Felipe Conceição. Adianta mudar o técnico?
-category: futebol
+category: Futebol
 ---
 
 Após sucessivas partidas ruins, com futebol de baixíssima qualidade, e forte pressão da torcida alvirrubra nas redes sociais, o [Náutico anuncia a saída de Felipe Conceição](https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/04/11/apos-derrota-na-estreia-da-serie-b-nautico-demite-tecnico-felipe-conceicao.ghtml).
@@ -17,7 +17,7 @@ Em breve pretendo ler mais sobre as ciências estatísticas no futebol e elabora
 
 **O retroscpecto de Felipe Conceição no comando do náutico é:**
 
-**6 vitórias:** 
+**6 vitórias:**
 
 * Atlético-BA (3x0)*
 * Vera Cruz (2x1)*

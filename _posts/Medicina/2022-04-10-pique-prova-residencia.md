@@ -1,6 +1,6 @@
 ---
 title: Está sendo difícil manter o ritmo de estudo pra prova de residência
-category: medicina
+category: Medicina
 ---
 
 Já estou começando a ficar desestimulado pra assistir aulas todos os dias e ficar fazendo questões. Ainda mais com os atuais rodízidos do internato que estão sendo muito estressantes e desgastantes sem darem retorno de aprendizado significativo.

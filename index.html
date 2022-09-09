@@ -8,24 +8,30 @@ title: NaMOXK
 
 <p>Esse site também é uma forma de eu externalizar meus sentimentos e interesses para conseguir gerí-los melhor.</p>
 
-<p><b>Achou o site feio?</b> Minha filosofia é ter um site extremamente simples e leve, focado apenas em exibir conteúdo. O layout é praticamente puro HTML, adoro essa sensação de nostalgia dos velhos tempos da web quando todos os sites eram assim.</p>
+<p><b>Achou o site feio?</b> Minha filosofia é ter um site extremamente simples e leve, focado apenas em exibir conteúdo. O layout é praticamente puro HTML. Adoro essa sensação de nostalgia dos velhos tempos da web quando todos os sites eram assim.</p>
 
 <h2>Minhas redes:</h2>
 <ul>
   <li>🐦 <a href="https://twitter.com/filipemosca" target="blank">Twitter</a></li>
   <li>🎥 <a href="https://letterboxd.com/filipemosca/">Letterboxd</a></li>
+  <li>🎲 <a href="https://boardgamegeek.com/user/filipemosca">Board Game Geek</a></li>
   <li>💻 <a href="https://github.com/filipemosca">Github</a></li>
 </ul>
 
-<h2>Lendo:</h2>
+<h2>Blog</h2>
+
+{% for post in site.posts %}
+  <span>{{ post.date | date: "%d-%m-%Y" }} [<span class="{{ post.category }}">{{ post.category }}</span>] <a href="{{ post.url }}">{{ post.title }}</a></span><br>
+{% endfor %}
+
+<!-- <h2>Lendo:</h2>
 <div style="display: inline-block;">
   <img style="float: left; padding-right: 10px;" src="/img/Livros/numeros-do-jogo.jpeg" alt="Capa do livro que estou lendo">
   <p style="margin-top: 0;">Atualmente estou lendo o livro <b><em>"Os números do jogo: Por que tudo o que você sabe sobre futebol está errado"</em></b> sobre aplição de análise estatística no futebol. O livro traz questionamentos interessantes como: será que escanteios são realmente chances perigosas de gol? Será que trocar de técnico quando o time vai mal traz benefícios? O futebol é talento ou sorte?</p>
-</div>
+</div> -->
 
 
-
-<h2>Futebol ⚽</h2>
+<!-- <h2>Futebol ⚽</h2>
 <p>Ano de copa!!! Torço pro <img src="/img/futebol/nau_favicon.png" alt=""> <a style="color: red" href="https://pt.wikipedia.org/wiki/Clube_N%C3%A1utico_Capibaribe">Clube Náutico Capibaribe</a> e aqui escrevo minhas análises amadoras do futebol do Náutico e da <img src="/img/futebol/cbf_favicon.png" alt=""> <span style="color: green">Seleção Brasileira</span>.</p>
 
 {% for page in site.categories.futebol %}
@@ -37,4 +43,4 @@ title: NaMOXK
 
 {% for page in site.categories.medicina %}
   <span>{{ page.date | date_to_string }} — <a href="{{ page.url }}">{{ page.title }}</a></span><br>
-{% endfor %}
+{% endfor %} -->

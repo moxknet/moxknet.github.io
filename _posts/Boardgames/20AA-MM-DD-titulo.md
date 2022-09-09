@@ -1,0 +1,4 @@
+---
+title: "Título"
+category: Boardgames
+---

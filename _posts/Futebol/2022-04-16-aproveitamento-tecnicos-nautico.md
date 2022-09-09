@@ -1,6 +1,6 @@
 ---
 title: Histórico de aproveitamento dos últimos treinadores do Náutico
-category: futebol
+category: Futebol
 ---
 
 Peguei os dados do histórico de V/E/D por treinador do náutico no ogol e plotei no excel ordenando pelo aproveitamento.

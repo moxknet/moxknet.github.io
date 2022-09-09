@@ -2,5 +2,5 @@
 layout: default
 ---
 
-<span>{{ page.date | date_to_string }}</span>
+<span>{{ page.date | date: "%d-%m-%Y" }}</span>
 {{ content }}
