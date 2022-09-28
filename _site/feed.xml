@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-08T20:44:06-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NaMOXK</title><subtitle>Blog onde escrevo sobre o que me der vontade.</subtitle><entry><title type="html">Catan: o jogo que me introduziu no hobby dos boardgames</title><link href="http://localhost:4000/boardgames/2022/jogo-que-me-introduziu-boardgames" rel="alternate" type="text/html" title="Catan: o jogo que me introduziu no hobby dos boardgames" /><published>2022-09-08T00:00:00-03:00</published><updated>2022-09-08T00:00:00-03:00</updated><id>http://localhost:4000/boardgames/2022/jogo-que-me-introduziu-boardgames</id><content type="html" xml:base="http://localhost:4000/boardgames/2022/jogo-que-me-introduziu-boardgames"><![CDATA[<p>Eu só conhecia jogos de tabuleiro como jogo da vida, banco imobiliário e War. Aliás, odiava esses jogos e, portanto, dizia que odiava jogos de tabuleiro. Mas tudo isso mudou quando um amigo meu me apresentou ao jogo <em>Os colonizadores de Catan</em>.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-28T19:24:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NaMOXK</title><subtitle>Blog onde escrevo sobre o que me der vontade.</subtitle><entry><title type="html">Lista de jogos open-source</title><link href="http://localhost:4000/videogames/2022/jogos-open-source" rel="alternate" type="text/html" title="Lista de jogos open-source" /><published>2022-09-28T00:00:00-03:00</published><updated>2022-09-28T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/jogos-open-source</id><content type="html" xml:base="http://localhost:4000/videogames/2022/jogos-open-source"><![CDATA[<ul>
+  <li><strong>OpenTTD</strong> (<a href="https://www.openttd.org/">https://www.openttd.org/</a>)</li>
+  <li><strong>Lincity-NG</strong> (<a href="https://sourceforge.net/projects/lincity-ng.berlios/">https://sourceforge.net/projects/lincity-ng.berlios/</a> e <a href="https://github.com/lincity-ng/lincity-ng">https://github.com/lincity-ng/lincity-ng</a>)</li>
+  <li><strong>Unciv</strong> (<a href="https://github.com/yairm210/UnCiv">https://github.com/yairm210/UnCiv</a> e <a href="https://yairm210.itch.io/unciv">https://yairm210.itch.io/unciv</a>)</li>
+  <li><strong>Micropolis</strong> (<a href="https://snapcraft.io/micropolis">https://snapcraft.io/micropolis</a> e <a href="https://wiki.laptop.org/go/Micropolis">https://wiki.laptop.org/go/Micropolis</a>)</li>
+  <li><strong>Simutrans</strong> (<a href="https://www.simutrans.com/pt/">https://www.simutrans.com/pt/</a>)</li>
+  <li><strong>FreeOrion</strong> (<a href="https://www.freeorion.org/index.php/Main_Page">https://www.freeorion.org/index.php/Main_Page</a> e <a href="https://github.com/freeorion/freeorion">https://github.com/freeorion/freeorion</a>)</li>
+  <li><strong>0 A.D.</strong> (<a href="https://play0ad.com/">https://play0ad.com/</a> e <a href="https://github.com/0ad/0ad">https://github.com/0ad/0ad</a>)</li>
+  <li><strong>OpenRA</strong> (<a href="https://www.openra.net/">https://www.openra.net/</a> e <a href="https://github.com/OpenRA/OpenRA">https://github.com/OpenRA/OpenRA</a>)</li>
+  <li><strong>Openage</strong> (<a href="https://openage.sft.mx/">https://openage.sft.mx/</a> e <a href="https://github.com/SFTtech/openage/">https://github.com/SFTtech/openage/</a>)</li>
+  <li><strong>Widelands</strong> (<a href="https://www.widelands.org/">https://www.widelands.org/</a> e <a href="https://launchpad.net/widelands">https://launchpad.net/widelands</a>)</li>
+  <li><strong>OpenBW</strong> (<a href="http://www.openbw.com/">http://www.openbw.com/</a>)</li>
+</ul>
+
+<p>Site com uma lista de clones open source de jogos clássicos: <a href="https://osgameclones.com/">https://osgameclones.com/</a></p>]]></content><author><name></name></author><category term="Videogames" /><summary type="html"><![CDATA[OpenTTD (https://www.openttd.org/) Lincity-NG (https://sourceforge.net/projects/lincity-ng.berlios/ e https://github.com/lincity-ng/lincity-ng) Unciv (https://github.com/yairm210/UnCiv e https://yairm210.itch.io/unciv) Micropolis (https://snapcraft.io/micropolis e https://wiki.laptop.org/go/Micropolis) Simutrans (https://www.simutrans.com/pt/) FreeOrion (https://www.freeorion.org/index.php/Main_Page e https://github.com/freeorion/freeorion) 0 A.D. (https://play0ad.com/ e https://github.com/0ad/0ad) OpenRA (https://www.openra.net/ e https://github.com/OpenRA/OpenRA) Openage (https://openage.sft.mx/ e https://github.com/SFTtech/openage/) Widelands (https://www.widelands.org/ e https://launchpad.net/widelands) OpenBW (http://www.openbw.com/)]]></summary></entry><entry><title type="html">Por onde estudei medicina durante o internato</title><link href="http://localhost:4000/medicina/2022/por-onde-estudo-medicina" rel="alternate" type="text/html" title="Por onde estudei medicina durante o internato" /><published>2022-09-23T00:00:00-03:00</published><updated>2022-09-23T00:00:00-03:00</updated><id>http://localhost:4000/medicina/2022/por-onde-estudo-medicina</id><content type="html" xml:base="http://localhost:4000/medicina/2022/por-onde-estudo-medicina"><![CDATA[<p>Vou compartilhar aqui nessa postagem as minhas principais fontes de estudo. Durante o internato estas foram as minhas principais formas de estudar, foram os matérias responsáveis pelo meu aprimoramento teórico como futuro médico. Tenho profundo carinho por estas por estas fontes que me acompanharam por estes 2 anos de internato.</p>
+
+<p>Em vários momentos abri o UpToDate na beira do leito ou li alguns tópicos de capítulos do Harrison enquanto estava com tempo ocioso durante os serviços nos hospitais.</p>
+
+<p>Em uma das várias memórias afetivas, ainda no primeiro ano do internato me lembro de estar na fila do elevador do Hospital da Restauração, lendo tópicos do capítulo de sepse do Harrison enquanto aguardava o elevador chegar para que eu pudesse levar a amostra de hemocultura do meu paciente para o laboratório de microbiologia (um paciente que me marcou muito, por sinal, e me fez entender a importância de saber identificar e tratar a sepse).</p>
+
+<p>Abaixo vou listar as minhas principais fontes de estudo da medicina durante o internato.</p>
+
+<h2 id="harrison">Harrison</h2>
+
+<h2 id="uptodate">UpToDate</h2>
+
+<p>Conheci o UpToDate no 6º período da faculdade, enquanto estava pagando as cadeiras de ginecologia e obstetrícia. A maternidade da faculdade nos dava acesso gratuito ao serviço que naquela época me parecia extremamente assutador e intimidador. Eu observava aqueles montes de textos com várias mil seções e tópicos com muito pavor e me sentia completamente perdido nas pesquisas pela plataforma. Por esse motivo, acabei não utilizando-o muito até chegar no internato.</p>
+
+<p>Já no internato, foi no primeiro ano, durante o rodízio de clínica médica no Hospital Getúlio Vargas que aprendi a extrair o ouro dessa plataforma. No HGV todos os preceptores e residentes tinham o hábito de ler o uptodate, até mesmo na beira leito, para embasar condutas e esclarecer dúvidas.</p>
+
+<p>Eu achava isso massa, a residência do HGV tinha uma pegada bastante acadêmica, os preceptores se preocupavam de indicar as melhores condutas disponíveis de acordo com as melhores evidências. Não que eles apenas seguiam o que estava descrito no uptodate, mas usavam a ferramente como um importante agregador de conhecimento para possibilitar discussões clínicas.</p>
+
+<h2 id="medcurso">Medcurso</h2>
+
+<h2 id="sanar-residência-médica">Sanar residência médica</h2>
+
+<h2 id="first-aid-usmle-step-1">First Aid USMLE Step 1</h2>]]></content><author><name></name></author><category term="Medicina" /><summary type="html"><![CDATA[Vou compartilhar aqui nessa postagem as minhas principais fontes de estudo. Durante o internato estas foram as minhas principais formas de estudar, foram os matérias responsáveis pelo meu aprimoramento teórico como futuro médico. Tenho profundo carinho por estas por estas fontes que me acompanharam por estes 2 anos de internato.]]></summary></entry><entry><title type="html">Catan: o jogo que me introduziu no hobby dos boardgames</title><link href="http://localhost:4000/boardgames/2022/jogo-que-me-introduziu-boardgames" rel="alternate" type="text/html" title="Catan: o jogo que me introduziu no hobby dos boardgames" /><published>2022-09-08T00:00:00-03:00</published><updated>2022-09-08T00:00:00-03:00</updated><id>http://localhost:4000/boardgames/2022/jogo-que-me-introduziu-boardgames</id><content type="html" xml:base="http://localhost:4000/boardgames/2022/jogo-que-me-introduziu-boardgames"><![CDATA[<p>Eu só conhecia jogos de tabuleiro como jogo da vida, banco imobiliário e War. Aliás, odiava esses jogos e, portanto, dizia que odiava jogos de tabuleiro. Mas tudo isso mudou quando um amigo meu me apresentou ao jogo <em>Os colonizadores de Catan</em>.</p>
 
 <p><img src="/img/boardgames/catan.jpeg" alt="Catan" /></p>
 
@@ -193,38 +229,4 @@ Your browser does not support the video tag.
       <p>Heuer A, Müller C, Rubner O, Hagemann N, Strauss B (2011) <strong>Usefulness of Dismissing and Changing the Coach in Professional Soccer</strong>. PLOS ONE 6(3): e17664. <a href="https://doi.org/10.1371/journal.pone.0017664">https://doi.org/10.1371/journal.pone.0017664</a> <a href="#fnref:Heuer" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Após sucessivas partidas ruins, com futebol de baixíssima qualidade, e forte pressão da torcida alvirrubra nas redes sociais, o Náutico anuncia a saída de Felipe Conceição.]]></summary></entry><entry><title type="html">Náutico começa a Série B de 2022 com derrota após duas falhas da defesa</title><link href="http://localhost:4000/futebol/2022/nautico-comeca-2022-com-derrota-na-serie-b" rel="alternate" type="text/html" title="Náutico começa a Série B de 2022 com derrota após duas falhas da defesa" /><published>2022-04-10T00:00:00-03:00</published><updated>2022-04-10T00:00:00-03:00</updated><id>http://localhost:4000/futebol/2022/nautico-comeca-2022-com-derrota-na-serie-b</id><content type="html" xml:base="http://localhost:4000/futebol/2022/nautico-comeca-2022-com-derrota-na-serie-b"><![CDATA[<p>Primeria rodada do Brasileirão série B de 2022 e o <a href="https://ge.globo.com/pr/futebol/brasileirao-serie-b/jogo/10-04-2022/londrina-nautico.ghtml">Náutico já estreia com derrota fora de casa por 2x0 para o Londrina</a> (um dos times mais fracos para esta nova temporada).</p>
-
-<p>Não assisti o jogo completo mas fui ver os melhores lances. Lucas Perri, goleiro do Náutico, precisou trabalhar bastante fazendo 6 grandes defesas contra as poderosas finalizações do Londrina. Dos 13 chutes do Londrina, 8 foram em direção ao gol. O Náutico também fez 13 finalizações mas, vergonhosamente, apenas 2 foram em direção ao gol.</p>
-
-<p>Quero me ater aqui aos lances dos dois gols do Londrina, explorando as graves falhas da defesa do Náutico.</p>
-
-<p>A jogada do <strong>primeiro gol</strong> do Londrina teve início com uma cobrança de lateral. O jogador do Londrina recebeu a bola e conseguiu passar com facilidade por dois marcadores, Camutanga e Carlão, e em seguida conseguiu passar a bola para seu companheiro recuado, livre de marcação, fazer o gol.</p>
-
-<p><img src="/img/futebol/2022-serieb/2022-nauxlon-1gol1.jpg" alt="" />
-<img src="/img/futebol/2022-serieb/2022-nauxlon-1gol2.jpg" alt="" />
-<img src="/img/futebol/2022-serieb/2022-nauxlon-1gol3.jpg" alt="" /></p>
-
-<p>Percebam que 5 marcadores do Náutico não foram capazes de conseguir marcar 3 atacantes do Londrina. 4 foram correr atrás do atacante com a bola, 1 ficou no meio da grande área assistindo. Nessa bagunça toda os dois outros atacantes do Londrina ficaram livres pra receber um passe na cara da gol pra finalizar.</p>
-
-<p>Pra mim, gols logo após cobranças de lateral sempre serão falhas da defesa. Nos laterais os defensores têm a possibilidade de se organizarem em campo para impedirem as saídas de bola do time atacante. O Náutico não fez isso, deixou um buraco na área, permitiu o avanço de atacantes sem marcação.</p>
-
-<p>O <strong>segundo gol</strong> teve origem num contra-ataque após um passe errado para Jean Carlos no meio de campo inimigo. Também uma falha do zagueiro do Náutico Carlão, que não conseguiu impedir que o atacante adversário recebesse com facilidade uma <strong><em>bola cruzada pelas costas</em></strong>* para cabecear. Perceram na primeira imagem o atacante com a mão levantada pedindo a bola e na sequência ele livre, leve e solto para cabecear com tranquilidade após ter passado sem maiores problemas por dois marcadores do Náutico.</p>
-
-<p>*As bolas cruzadas pelas costas são mais vantajosas para quem defende, pois o atacante precisa ficar olhando para trás e o defendor consegue retirar com mais facilidade.</p>
-
-<p><img src="/img/futebol/2022-serieb/2022-nauxlon-2gol1.jpg" alt="" />
-<img src="/img/futebol/2022-serieb/2022-nauxlon-2gol2.jpg" alt="" />
-<img src="/img/futebol/2022-serieb/2022-nauxlon-2gol3.jpg" alt="" /></p>
-
-<p>Nos dois gols do Lodrina, o zagueiro Carlão ficou apenas assistindo a jogada.</p>
-
-<p>A defesa do Náutico está falhando muito, e cada falha dessas resulta em gol do time adversário.</p>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Primeria rodada do Brasileirão série B de 2022 e o Náutico já estreia com derrota fora de casa por 2x0 para o Londrina (um dos times mais fracos para esta nova temporada).]]></summary></entry><entry><title type="html">Está sendo difícil manter o ritmo de estudo pra prova de residência</title><link href="http://localhost:4000/medicina/2022/pique-prova-residencia" rel="alternate" type="text/html" title="Está sendo difícil manter o ritmo de estudo pra prova de residência" /><published>2022-04-10T00:00:00-03:00</published><updated>2022-04-10T00:00:00-03:00</updated><id>http://localhost:4000/medicina/2022/pique-prova-residencia</id><content type="html" xml:base="http://localhost:4000/medicina/2022/pique-prova-residencia"><![CDATA[<p>Já estou começando a ficar desestimulado pra assistir aulas todos os dias e ficar fazendo questões. Ainda mais com os atuais rodízidos do internato que estão sendo muito estressantes e desgastantes sem darem retorno de aprendizado significativo.</p>
-
-<p>Mas enfim, essa pequena postagem é apenas um desabafo pra tentar externalizar meu cansaço e servir de um estímulo a mais pra resgatar novas energias pra continuar.</p>
-
-<p>Estou atrasado no cursinho de residência mas não a ponto de ser irrecuperável.</p>
-
-<p>Queria muito conseguir aumentar minha eficiência estudando, passando menos tempo sentado e mantendo o mesmo limiar de memorização.</p>
-
-<p>Vou aos poucos pensando em como posso otimizar meu tempo.</p>]]></content><author><name></name></author><category term="Medicina" /><summary type="html"><![CDATA[Já estou começando a ficar desestimulado pra assistir aulas todos os dias e ficar fazendo questões. Ainda mais com os atuais rodízidos do internato que estão sendo muito estressantes e desgastantes sem darem retorno de aprendizado significativo.]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Após sucessivas partidas ruins, com futebol de baixíssima qualidade, e forte pressão da torcida alvirrubra nas redes sociais, o Náutico anuncia a saída de Felipe Conceição.]]></summary></entry></feed>
