@@ -1,4 +1,5 @@
 ---
-title: "Título"
+title: Título
 category: Boardgames
 ---
+
