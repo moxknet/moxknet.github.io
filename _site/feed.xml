@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-09-28T19:24:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NaMOXK</title><subtitle>Blog onde escrevo sobre o que me der vontade.</subtitle><entry><title type="html">Lista de jogos open-source</title><link href="http://localhost:4000/videogames/2022/jogos-open-source" rel="alternate" type="text/html" title="Lista de jogos open-source" /><published>2022-09-28T00:00:00-03:00</published><updated>2022-09-28T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/jogos-open-source</id><content type="html" xml:base="http://localhost:4000/videogames/2022/jogos-open-source"><![CDATA[<ul>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-04T22:30:04-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NaMOXK</title><subtitle>Blog onde escrevo sobre o que me der vontade.</subtitle><entry><title type="html">Como jogar o simulador de trens OpenBVE</title><link href="http://localhost:4000/videogames/2022/como-jogar-openbve" rel="alternate" type="text/html" title="Como jogar o simulador de trens OpenBVE" /><published>2022-10-04T00:00:00-03:00</published><updated>2022-10-04T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/como-jogar-openbve</id><content type="html" xml:base="http://localhost:4000/videogames/2022/como-jogar-openbve"><![CDATA[<p>OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes “BVE”. É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).</p>
+
+<h2 id="baixano-e-instalando-o-openbve">Baixano e instalando o OpenBVE</h2>
+
+<p>O OpenBVE pode ser baixado no site oficial: <a href="https://openbve-project.net/">https://openbve-project.net/</a>. O código fonte do simulador é hospedado no GitHub e pode ser acessado por aqui: <a href="https://github.com/leezer3/OpenBVE">https://github.com/leezer3/OpenBVE</a> (interessante notar que o simulador continua sendo desenvolvido pelos programadores. O último update no código foi ontem).</p>
+
+<h2 id="comandos-e-como-jogar">Comandos e como jogar</h2>
+
+<p>Esse site aqui, o <a href="https://www.openbve.net/en">https://www.openbve.net/en</a> tem uma página ensinando todo o necessário para começar a pilotar locomotivas: <a href="https://www.openbve.net/en/drive.php#obj">https://www.openbve.net/en/drive.php#obj</a>. Mas para começar a jogar é necessário antes baixar as rotas e as locomotivas (os addons). Esse mesmo site também disponibiliza links para o download de vários addons: <a href="https://www.openbve.net/en/line.php">https://www.openbve.net/en/line.php</a>.</p>
+
+<h2 id="sinalizações-das-rotas">Sinalizações das rotas</h2>
+
+<p>Também tem uma página descrevendo os principais sinais encontrados nas rotas e seus significados: <a href="https://www.openbve.net/en/sign.php">https://www.openbve.net/en/sign.php</a>.</p>]]></content><author><name></name></author><category term="Videogames" /><category term="OpenBVE," /><category term="TrainSims" /><summary type="html"><![CDATA[OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes “BVE”. É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).]]></summary></entry><entry><title type="html">Dicas para iniciantes no Train Sim World 3</title><link href="http://localhost:4000/videogames/2022/22-56-51" rel="alternate" type="text/html" title="Dicas para iniciantes no Train Sim World 3" /><published>2022-10-03T00:00:00-03:00</published><updated>2022-10-03T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/22-56-51</id><content type="html" xml:base="http://localhost:4000/videogames/2022/22-56-51"><![CDATA[<p>Comecei a jogar Train Sim World 3 essa semana pelo Xbox Game Pass e já viciei no jogo. Sempre gostei de tres mas agora meu vício escalou para um nível que agora jogo simuladores.</p>
+
+<p>Já tinha visto esses simuladores antes mas achava que a experiência de jogar seria chata e monótona, visto que para pilotar um trem basta apenas ficar acelerando e feriado. Mas eu estava enganado. É difícil de explicar mas a experiência de pilotar trens no simulador é muito prazerosa, mesmo que basicamente seja realmente apenas acelerar e freiar (e algumas nunaces que entro em maiores deralhes depois).</p>
+
+<p>No momento só joguei a rota Cajon Pass pilotando a locomotiva ES44AC, então vou dar algumas dicas nesse setup. Pesquisei muito sobre guias e tutoriais e vou compartilhar agora o que descobri.</p>
+
+<h2 id="manual-da-locomotiva">Manual da locomotiva</h2>
+
+<p>A desenvolvedora do jogo disponibiliza um manual com informações da locomotiva (explicação do painel e dos botões) e com um tutorial do passo a passo para dar partida no veículo do zero.</p>
+
+<p>Link:</p>]]></content><author><name></name></author><category term="Videogames" /><summary type="html"><![CDATA[Comecei a jogar Train Sim World 3 essa semana pelo Xbox Game Pass e já viciei no jogo. Sempre gostei de tres mas agora meu vício escalou para um nível que agora jogo simuladores.]]></summary></entry><entry><title type="html">Lista de jogos open-source</title><link href="http://localhost:4000/videogames/2022/jogos-open-source" rel="alternate" type="text/html" title="Lista de jogos open-source" /><published>2022-09-28T00:00:00-03:00</published><updated>2022-09-28T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/jogos-open-source</id><content type="html" xml:base="http://localhost:4000/videogames/2022/jogos-open-source"><![CDATA[<ul>
   <li><strong>OpenTTD</strong> (<a href="https://www.openttd.org/">https://www.openttd.org/</a>)</li>
   <li><strong>Lincity-NG</strong> (<a href="https://sourceforge.net/projects/lincity-ng.berlios/">https://sourceforge.net/projects/lincity-ng.berlios/</a> e <a href="https://github.com/lincity-ng/lincity-ng">https://github.com/lincity-ng/lincity-ng</a>)</li>
   <li><strong>Unciv</strong> (<a href="https://github.com/yairm210/UnCiv">https://github.com/yairm210/UnCiv</a> e <a href="https://yairm210.itch.io/unciv">https://yairm210.itch.io/unciv</a>)</li>
@@ -148,85 +170,4 @@ Your browser does not support the video tag.
 
 <p>Prefiro acreditar que o time é sim um time mediano e que conseguindo um bom treinador vai ser possível trazer qualidade técnica e resultado pras partidas.</p>
 
-<p>Gosto sempre de pensar grande e acho que o Náutico precisa fazer o mesmo. O objetivo dessa temparada não é lutar contra o rebaixamento, é lutar pelo acesso; e temos time pra isso.</p>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Vi muita gente criticando o plantel do Náutico dizendo que é de baixíssima qualidade técnica e individual quando comparado aos demais times da tabela. Mas será mesmo?]]></summary></entry><entry><title type="html">Quais as melhores opções de técnicos pro Náutico em 2022?</title><link href="http://localhost:4000/futebol/2022/opcoes-tecnicos-nautico-2022" rel="alternate" type="text/html" title="Quais as melhores opções de técnicos pro Náutico em 2022?" /><published>2022-04-14T00:00:00-03:00</published><updated>2022-04-14T00:00:00-03:00</updated><id>http://localhost:4000/futebol/2022/opcoes-tecnicos-nautico-2022</id><content type="html" xml:base="http://localhost:4000/futebol/2022/opcoes-tecnicos-nautico-2022"><![CDATA[<p>Essa <a href="https://ge.globo.com/pe/futebol/noticia/2022/04/12/lisca-enderson-jair-ventura-ney-franco-dado-com-nautico-atras-de-tecnico-veja-os-livres-no-mercado.ghtml">reportagem do GE listou algumas opções de técnicos que estão diponíveis no mercado</a>. Não necessariamente todos estão dentro do orçamento do Náutico mas já é uma lista interessante pra ver as possibilidades.</p>
-
-<p>Peguei nome por nome dos técnicos da lista e fui avaliar friamente os números de vitórias, empates e derrotas de cada um. Abaixo filtrei os nomes com os <strong>melhores desempenhos (porcentagens de V, E, D; respectivamente):</strong></p>
-
-<ul>
-  <li><a href="https://www.sofascore.com/manager/tiago-nunes/790357">Tiago Nunes</a> (47.95%, 24.66%, 27.40% em 146 jogos)</li>
-  <li><a href="https://www.sofascore.com/manager/vanderlei-luxemburgo/784871">Vanderlei Luxemburgo</a> (44.64%, 26.50%, 28.86% em 634 jogos)</li>
-  <li><a href="https://www.sofascore.com/manager/enderson-moreira/149578">Enderson Moreira</a> (43.16%, 24.21%, 32.63% em 380 jogos)</li>
-  <li><a href="https://www.sofascore.com/manager/mano-menezes/108391">Mano Menezes</a> (44.95%, 23.85%, 31.19% em 436 jogos)</li>
-  <li><a href="https://www.sofascore.com/manager/ney-franco-da-silveira-junior/53547">Ney Franco</a> (41.55%, 23.71%, 34.74% em 426 jogos)</li>
-  <li><a href="https://www.sofascore.com/manager/jorginho/147892">Jorginho</a> (38.70%, 29.10%, 32.20% em 323 jogos)</li>
-</ul>
-
-<p>Sou bem cartesiano e prefiro confiar nos números do que na intuição de que algum nome possa ser uma boa ideia.</p>
-
-<p>Destes nomes, eu gostaria muito de ter um <strong>Luxemburgo</strong> (mas acho bem, bem, bem difícil) ou um <strong>Ederson Moreira</strong> como técnico. Em especial o Ederson, <strong>em 2021 fez uma ótima campanha com o Botafogo na série B, sendo campeão</strong> e consequentemente conseguindo o acesso à série A (20 vitórias, 7 empates e 4 derrotas); isso mostra que experiência com a série B ele tem.</p>
-
-<p><strong>Tiago Nunes</strong> foi um nome que peguei no Twitter. Ele apresenta números muito bons. Seu último clube foi o Ceará onde foi demitido após eliminação do Nordestão apesar de apresentar um ótimo desempenho (32 jogos com 14 vitórias, 11 empates e só 7 derrotas). Acho que seria uma ótima opção pra Náutico. O técnico cometeu um deslize? Sim, mas no geral apresenta uma ótima consistência de resultados.</p>
-
-<p>Os <strong>demais nomes listados na reportagem apresentam números de desempenho bem ruins</strong> (Jair Ventura, Lisca, Marquinhos Santos, Fernando Diniz, Dado Cavalcanti, Alberto Valentim, Thiago Larghi, Roberto Fernandes… 😩). Para ver um por um é só pesquisar no site do SofaScore.</p>
-
-<p><a href="https://www.sofascore.com/manager/marcelo-oliveira/241308">Marcelo Oliveira</a> é um nome que apesar de ter desempenho geral bom (ótima campanha pelo Cruzeiro entre 2012 e 2015), está há 5 anos sem apresentar bons resultados.</p>
-
-<p>Um medo é contratarem o <a href="https://www.sofascore.com/manager/roberto-fernandes/785875">Roberto Fernandes</a> que apresenta desempenho horrível, tendo até rebaixado o Santa Cruz pra série D (após 15 partidas com 2V, 5E, 8D).</p>
-
-<p>Dos técnicos mais acessíveis e que caberiam no orçamento do Náutico, acho que <strong>Ney Franco</strong> seria a opção mais pragmática, se apoiando friamente nos números. Claro que tem que avaliar também a questão do relacionamento e adaptação com o resto da equipe do clube.</p>
-
-<p>Ansioso pra saber qual será o nome que comandará o Náutico esse ano. Queria muito alguém que apresente consistência e faça um bom trabalho a longo prazo. <a href="/futebol/2022/nautico-demite-conceicao-adianta-mudar-tecnico">Ficar trocando o tempo todo de técnico é muito prejudicial</a>.</p>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Essa reportagem do GE listou algumas opções de técnicos que estão diponíveis no mercado. Não necessariamente todos estão dentro do orçamento do Náutico mas já é uma lista interessante pra ver as possibilidades.]]></summary></entry><entry><title type="html">Náutico demite Felipe Conceição. Adianta mudar o técnico?</title><link href="http://localhost:4000/futebol/2022/nautico-demite-conceicao-adianta-mudar-tecnico" rel="alternate" type="text/html" title="Náutico demite Felipe Conceição. Adianta mudar o técnico?" /><published>2022-04-11T00:00:00-03:00</published><updated>2022-04-11T00:00:00-03:00</updated><id>http://localhost:4000/futebol/2022/nautico-demite-conceicao-adianta-mudar-tecnico</id><content type="html" xml:base="http://localhost:4000/futebol/2022/nautico-demite-conceicao-adianta-mudar-tecnico"><![CDATA[<p>Após sucessivas partidas ruins, com futebol de baixíssima qualidade, e forte pressão da torcida alvirrubra nas redes sociais, o <a href="https://ge.globo.com/pe/futebol/times/nautico/noticia/2022/04/11/apos-derrota-na-estreia-da-serie-b-nautico-demite-tecnico-felipe-conceicao.ghtml">Náutico anuncia a saída de Felipe Conceição</a>.</p>
-
-<p>É a segunda demissão de técnico no ano de 2022 (após a saída de Hélio dos Anjos em Janeiro), e olha que ainda estamos em Abril.</p>
-
-<p>A demissão precoce do técnico após apenas 15 jogos comandados me trouxe a recorrente questão: estatisticamente, qual o impácto da mudança de técnico no desempenho dos clubes?</p>
-
-<p>Existem alguns estudos que tentam responder essa pergunta. <a href="https://journals.plos.org/plosone/article/metrics?id=10.1371/journal.pone.0017664#citedHeader">Um deles foi publicado na PLOS ONE e concluiu que NÃO</a><sup id="fnref:Heuer" role="doc-noteref"><a href="#fn:Heuer" class="footnote" rel="footnote">1</a></sup>, a mudança dos técnicos não apresenta impacto significativo no desempenho futuro dos clubes; pelo menos não no futebol profissional Alemão.</p>
-
-<p>De toda forma, espero que a situação atual do Náutico seja uma exceção a essa tendência estatística. Vamos torcer pra que o novo técnico (ainda não apresentado) assuma o time e consiga fazer um bom trabalho, efetivamente trazendo melhora no desempenho do Náutico.</p>
-
-<p>Em breve pretendo ler mais sobre as ciências estatísticas no futebol e elaborar mais os argumentos sobre o impacto da mudança recorrente de técnicos e seus males.</p>
-
-<p><strong>O retroscpecto de Felipe Conceição no comando do náutico é:</strong></p>
-
-<p><strong>6 vitórias:</strong></p>
-
-<ul>
-  <li>Atlético-BA (3x0)*</li>
-  <li>Vera Cruz (2x1)*</li>
-  <li>Salgueiro (1x0)</li>
-  <li>Sergipe (3x0)</li>
-  <li>Caruaru City (1x0)</li>
-  <li>Globo (2x0)</li>
-</ul>
-
-<p><strong>4 empates:</strong></p>
-
-<ul>
-  <li>Afogados (2x2)</li>
-  <li>Santa Cruz (1x1)</li>
-  <li>Botafogo-PB (1x1)</li>
-  <li>Santa Cruz (0x0)</li>
-</ul>
-
-<p><strong>5 derrotas:</strong></p>
-
-<ul>
-  <li>CSA (3x1)*</li>
-  <li>Tocantinópolis (1x0)</li>
-  <li>Sport (2x1)</li>
-  <li>Fortaleza (2x0)</li>
-  <li>Londrina (2x0)</li>
-</ul>
-
-<p>*Jogos em que Felipe Conceição assistiu dos camarotes por estar suspenso</p>
-
-<h2 id="referências">Referências</h2>
-
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:Heuer" role="doc-endnote">
-      <p>Heuer A, Müller C, Rubner O, Hagemann N, Strauss B (2011) <strong>Usefulness of Dismissing and Changing the Coach in Professional Soccer</strong>. PLOS ONE 6(3): e17664. <a href="https://doi.org/10.1371/journal.pone.0017664">https://doi.org/10.1371/journal.pone.0017664</a> <a href="#fnref:Heuer" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Após sucessivas partidas ruins, com futebol de baixíssima qualidade, e forte pressão da torcida alvirrubra nas redes sociais, o Náutico anuncia a saída de Felipe Conceição.]]></summary></entry></feed>
+<p>Gosto sempre de pensar grande e acho que o Náutico precisa fazer o mesmo. O objetivo dessa temparada não é lutar contra o rebaixamento, é lutar pelo acesso; e temos time pra isso.</p>]]></content><author><name></name></author><category term="Futebol" /><summary type="html"><![CDATA[Vi muita gente criticando o plantel do Náutico dizendo que é de baixíssima qualidade técnica e individual quando comparado aos demais times da tabela. Mas será mesmo?]]></summary></entry></feed>
