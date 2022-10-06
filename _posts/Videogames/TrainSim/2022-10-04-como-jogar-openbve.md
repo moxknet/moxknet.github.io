@@ -8,7 +8,7 @@ tags: OpenBVE, TrainSims
 
 OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes "BVE". É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).
 
-## Baixano e instalando o OpenBVE
+## Baixando e instalando o OpenBVE
 
 O OpenBVE pode ser baixado no site oficial: <https://openbve-project.net/>. O código fonte do simulador é hospedado no GitHub e pode ser acessado por aqui: <https://github.com/leezer3/OpenBVE> (interessante notar que o simulador continua sendo desenvolvido pelos programadores. O último update no código foi ontem).
 
