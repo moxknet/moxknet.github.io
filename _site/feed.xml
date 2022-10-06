@@ -1,6 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-05T21:43:31-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NaMOXK</title><subtitle>Blog onde escrevo sobre o que me der vontade.</subtitle><entry><title type="html">Como trens funcionam</title><link href="http://localhost:4000/trens/2022/como-trens-funcionam" rel="alternate" type="text/html" title="Como trens funcionam" /><published>2022-10-05T00:00:00-03:00</published><updated>2022-10-05T00:00:00-03:00</updated><id>http://localhost:4000/trens/2022/como-trens-funcionam</id><content type="html" xml:base="http://localhost:4000/trens/2022/como-trens-funcionam"><![CDATA[<iframe width="100%" src="https://www.youtube.com/embed/pJw5wpdQ54w" title="Rad Movie - Aus dem Leben eines Spurkranzes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-06T00:23:09-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">NaMOXK</title><subtitle>Blog onde escrevo sobre o que me der vontade.</subtitle><entry><title type="html">Como trens funcionam</title><link href="http://localhost:4000/trens/2022/como-trens-funcionam" rel="alternate" type="text/html" title="Como trens funcionam" /><published>2022-10-05T00:00:00-03:00</published><updated>2022-10-05T00:00:00-03:00</updated><id>http://localhost:4000/trens/2022/como-trens-funcionam</id><content type="html" xml:base="http://localhost:4000/trens/2022/como-trens-funcionam"><![CDATA[<p>Me viciei completamente em trens. Posso dizer que sou um “nerd de trens”, como já vi algumas pessoas dizendo no Twitter. Abaixo vou listar alguns materiais que andei consultando para aprender um pouco mais sobre como os trens funcionam.</p>
 
-<p>https://www.youtube.com/watch?v=pJw5wpdQ54w</p>]]></content><author><name></name></author><category term="Trens" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Como jogar o simulador de trens OpenBVE</title><link href="http://localhost:4000/videogames/2022/como-jogar-openbve" rel="alternate" type="text/html" title="Como jogar o simulador de trens OpenBVE" /><published>2022-10-04T00:00:00-03:00</published><updated>2022-10-04T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/como-jogar-openbve</id><content type="html" xml:base="http://localhost:4000/videogames/2022/como-jogar-openbve"><![CDATA[<p>OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes “BVE”. É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).</p>
+<h2 id="motor-das-locomotivas">Motor das locomotivas</h2>
+
+<p>O video abaixo explica o funcionamento básico dos trens elétricos, desde a coleta da energia pelos pantógrafos, até o motor girar os eixos das rodas.</p>
+
+<div class="videoContainer">
+<iframe src="https://www.youtube.com/embed/GJbUI2D3rLY"></iframe>
+</div>
+
+<h2 id="rodas-e-trilhos">Rodas e trilhos</h2>
+
+<p>Esse vídeo abaixo é impressionante, principalmente quando a roda dá um pequeno salto na hora de trocar de linha.</p>
+
+<div class="videoContainer">
+<iframe src="https://www.youtube.com/embed/pJw5wpdQ54w"></iframe>
+</div>
+
+<p>Esse outro vídeo explica melhor, mostrando que as rodas dos trens na verdade têm formato cônico, impedindo que escape dos trilhos (incrivelmente não existe nenhum mecanismo sofisticado prendendo as rodas nos trilhos).</p>
+
+<div class="videoContainer">
+<iframe src="https://www.youtube.com/embed/XzgryPhtc1Y"></iframe>
+</div>
+
+<h2 id="sinalização-da-ferrovia">Sinalização da ferrovia</h2>
+
+<p><a href="https://www.youtube.com/watch?v=ABVT8MOYb1g">https://www.youtube.com/watch?v=ABVT8MOYb1g</a>.</p>
+
+<h2 id="como-funcionam-os-trilhos">Como funcionam os trilhos</h2>
+
+<p><a href="https://www.youtube.com/watch?v=FA3zb4dubPE">https://www.youtube.com/watch?v=FA3zb4dubPE</a>.</p>]]></content><author><name></name></author><category term="Trens" /><summary type="html"><![CDATA[Me viciei completamente em trens. Posso dizer que sou um “nerd de trens”, como já vi algumas pessoas dizendo no Twitter. Abaixo vou listar alguns materiais que andei consultando para aprender um pouco mais sobre como os trens funcionam.]]></summary></entry><entry><title type="html">Como jogar o simulador de trens OpenBVE</title><link href="http://localhost:4000/videogames/2022/como-jogar-openbve" rel="alternate" type="text/html" title="Como jogar o simulador de trens OpenBVE" /><published>2022-10-04T00:00:00-03:00</published><updated>2022-10-04T00:00:00-03:00</updated><id>http://localhost:4000/videogames/2022/como-jogar-openbve</id><content type="html" xml:base="http://localhost:4000/videogames/2022/como-jogar-openbve"><![CDATA[<p>OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes “BVE”. É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).</p>
 
 <h2 id="baixano-e-instalando-o-openbve">Baixano e instalando o OpenBVE</h2>
 
