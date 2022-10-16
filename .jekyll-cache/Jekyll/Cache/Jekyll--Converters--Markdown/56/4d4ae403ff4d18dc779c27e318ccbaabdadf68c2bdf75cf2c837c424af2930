@@ -1,0 +1,61 @@
+I"�<p>Alguns usuários do KDE Plasma – como era o meu caso – podem ter percebido que o Firefox usa por padrão as janelas de diálogo do GTK. Por exemplo, ao salvar uma imagem, a janela que aparece é uma janela diferente do Dolphin (imagem abaixo).</p>
+
+<p><img src="/img/linux/dialogo-gtk-kde.jpg" alt="Diálogo GTK no KDE do firefox" /></p>
+
+<p>Vou mostrar a seguir os passos para habilitar os diálogos nativos do KDE no Firefox (imagem abaixo). Vou partir do pressuposto que você está usando uma distribuição linux que use o <code class="language-plaintext highlighter-rouge">apt</code> como gestor de pacotes (Debian, Ubuntu…); se esse não for o caso, altere os comandos de acordo com a sua distro.</p>
+
+<p><img src="/img/linux/dialogo-nativo-kde.jpg" alt="Diálogo nativo do KDE no Firefox" /></p>
+
+<h2 id="instalar-pacotes-necessários">Instalar pacotes necessários</h2>
+
+<p>É necessário instalar os seguintes pacotes:</p>
+
+<ul>
+  <li>xdg-desktop-portal</li>
+  <li>xdg-desktop-portal-kde</li>
+</ul>
+
+<p>É bem provável que eles já estejam instalados no seu sistema (como era o meu caso). Relembrando como instalar pacotes (antes atualize o sistema), abra o terminal e execute os comandos – uma linha de cada vez:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update
+sudo apt upgrade
+sudo apt install xdg-desktop-portal xdg-desktop-portal-kde
+</code></pre></div></div>
+
+<h2 id="editar-o-arquivo-firefoxdesktop">Editar o arquivo firefox.desktop</h2>
+
+<p>Agora é necessário editar o arquivo <code class="language-plaintext highlighter-rouge">firefox.desktop</code>. No meu caso, como uso o Debian, o meu Firefox é o “ESR” (Extended Support Release), então eu edito o arquivo <code class="language-plaintext highlighter-rouge">firefox-esr.desktop</code>.</p>
+
+<p>Se você quer fazer uma configuração para todos os usuários, o arquivo fica localizado em <code class="language-plaintext highlighter-rouge">/usr/share/applications/</code>. Para isso, é necessário ter acesso root – recomendo fazer um backup do arquivo antes.</p>
+
+<p>Para fazer uma configuração apenas no usuário atual, é necessário editar (ou criar uma cópia neste diretório) do arquivo em <code class="language-plaintext highlighter-rouge">/.local/share/applications/</code>.</p>
+
+<p>Abra o <code class="language-plaintext highlighter-rouge">firefox.desktop</code> com um bloco de notas e edite a linha que contêm <code class="language-plaintext highlighter-rouge">Exec=</code>. Basta apenas acrescentar o comando <code class="language-plaintext highlighter-rouge">GTK_USE_PORTAL=1</code>, logo após o símbolo de <code class="language-plaintext highlighter-rouge">=</code>, deixando um <strong>espaço</strong> antes do caminho que já estava presente.</p>
+
+<p><strong>Reforçando…</strong> estava assim:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Exec=/usr/lib/firefox/firefox %u
+</code></pre></div></div>
+
+<p>E você vai deixar assim:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Exec=GTK_USE_PORTAL=1 /usr/lib/firefox/firefox %u
+</code></pre></div></div>
+
+<p>A imagem abaixo é um print do meu aquivo antes e depois. Lembrando que no meu caso o caminho termina em <code class="language-plaintext highlighter-rouge">firefox-esr</code> pois uso o Debian.</p>
+
+<p><img src="/img/linux/dialogo-antes.jpg" alt="Antes" /></p>
+
+<p><img src="/img/linux/dialogo-depois.jpg" alt="Depois" /></p>
+
+<h2 id="pronto">Pronto!</h2>
+
+<p>É pronto! Basta apenas reiniciar o navegador e testar a mudança salvando alguma imagem ou escolhendo o destino de algum download.</p>
+
+<h2 id="problemas-possíveis">Problemas possíveis</h2>
+
+<p>Se o seu navegador não estiver iniciando, você deve ter feito alguma edição errada no arquivo <code class="language-plaintext highlighter-rouge">firefox.desktop</code>. Certifique-se de não ter omitido ou apagado espaços necessários. Por isso é melhor sempre fazer uma cópia de segurança do arquivo original antes.</p>
+
+<p>Qualquer dificuldade me manda um email que posso tentar ajudar.</p>
+
+:ET

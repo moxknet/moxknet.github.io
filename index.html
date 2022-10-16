@@ -26,7 +26,8 @@ title: MOXK.net
   <li>
     <span><a href="{{ post.url }}">{{ post.title }}</a></span>
     <br>
-    <span class="post_date">{{ post.date | date: "%d-%m-%Y" }} [<span class="{{ post.category }}">{{ post.category }}</span>]</span>
+    <span class="post_date">{{ post.date | date: "%d-%m-%Y" }} <span class="{{ post.category }}">#{{ post.category }}</span></span>
+
   </li>
 {% endfor %}
 </ul>

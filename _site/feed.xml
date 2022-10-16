@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2022-10-12T23:15:05-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOXK.net</title><subtitle>Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros... e o que mais der vontade.</subtitle><entry><title type="html">Links sobre trens, locomotivas e ferrovias</title><link href="http://localhost:4000/links-sobre-trens" rel="alternate" type="text/html" title="Links sobre trens, locomotivas e ferrovias" /><published>2022-10-09T00:00:00-03:00</published><updated>2022-10-09T00:00:00-03:00</updated><id>http://localhost:4000/links-sobre-trens</id><content type="html" xml:base="http://localhost:4000/links-sobre-trens"><![CDATA[<p><strong>Essa página está em constante atualização!</strong> 🏗️ Vou adicionando Links com matérias interessntes sobre trens 🚂. O conteúdo aqui pode interessar quem também ama trens como eu.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2022-10-15T22:38:14-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOXK.net</title><subtitle>Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros... e o que mais der vontade.</subtitle><entry><title type="html">Como habilitar as janelas de diálogo nativas do KDE no firefox</title><link href="http://localhost:4000/dialogo-nativo-firefox-kde" rel="alternate" type="text/html" title="Como habilitar as janelas de diálogo nativas do KDE no firefox" /><published>2022-10-15T00:00:00-03:00</published><updated>2022-10-15T00:00:00-03:00</updated><id>http://localhost:4000/dialogo-nativo-firefox-kde</id><content type="html" xml:base="http://localhost:4000/dialogo-nativo-firefox-kde"><![CDATA[<p>Alguns usuários do KDE Plasma – como era o meu caso – podem ter percebido que o Firefox usa por padrão as janelas de diálogo do GTK. Por exemplo, ao salvar uma imagem, a janela que aparece é uma janela diferente do Dolphin (imagem abaixo).</p>
+
+<p><img src="/img/linux/dialogo-gtk-kde.jpg" alt="Diálogo GTK no KDE do firefox" /></p>
+
+<p>Vou mostrar a seguir os passos para habilitar os diálogos nativos do KDE no Firefox (imagem abaixo). Vou partir do pressuposto que você está usando uma distribuição linux que use o <code class="language-plaintext highlighter-rouge">apt</code> como gestor de pacotes (Debian, Ubuntu…); se esse não for o caso, altere os comandos de acordo com a sua distro.</p>
+
+<p><img src="/img/linux/dialogo-nativo-kde.jpg" alt="Diálogo nativo do KDE no Firefox" /></p>
+
+<h2 id="instalar-pacotes-necessários">Instalar pacotes necessários</h2>
+
+<p>É necessário instalar os seguintes pacotes:</p>
+
+<ul>
+  <li>xdg-desktop-portal</li>
+  <li>xdg-desktop-portal-kde</li>
+</ul>
+
+<p>É bem provável que eles já estejam instalados no seu sistema (como era o meu caso). Relembrando como instalar pacotes (antes atualize o sistema), abra o terminal e execute os comandos – uma linha de cada vez:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>sudo apt update
+sudo apt upgrade
+sudo apt install xdg-desktop-portal xdg-desktop-portal-kde
+</code></pre></div></div>
+
+<h2 id="editar-o-arquivo-firefoxdesktop">Editar o arquivo firefox.desktop</h2>
+
+<p>Agora é necessário editar o arquivo <code class="language-plaintext highlighter-rouge">firefox.desktop</code>. No meu caso, como uso o Debian, o meu Firefox é o “ESR” (Extended Support Release), então eu edito o arquivo <code class="language-plaintext highlighter-rouge">firefox-esr.desktop</code>.</p>
+
+<p>Se você quer fazer uma configuração <strong>para todos os usuários</strong>, o arquivo fica localizado em <code class="language-plaintext highlighter-rouge">/usr/share/applications/</code>. Para isso, é necessário ter <strong>acesso root</strong> – recomendo fazer um backup do arquivo antes.</p>
+
+<p>Para fazer uma configuração <strong>apenas no usuário atual</strong>, é necessário editar (ou criar uma cópia neste diretório, caso não haja) do arquivo em <code class="language-plaintext highlighter-rouge">/.local/share/applications/</code>.</p>
+
+<p>Abra o <code class="language-plaintext highlighter-rouge">firefox.desktop</code> com um bloco de notas e edite a linha que contêm <code class="language-plaintext highlighter-rouge">Exec=</code>. Basta apenas acrescentar o comando <code class="language-plaintext highlighter-rouge">GTK_USE_PORTAL=1</code>, logo após o símbolo de <code class="language-plaintext highlighter-rouge">=</code>, deixando um <strong>espaço</strong> antes do caminho que já estava presente.</p>
+
+<p><strong>Reforçando…</strong> estava assim:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Exec=/usr/lib/firefox/firefox %u
+</code></pre></div></div>
+
+<p>E você vai deixar assim:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Exec=GTK_USE_PORTAL=1 /usr/lib/firefox/firefox %u
+</code></pre></div></div>
+
+<p>A imagem abaixo é um print do meu aquivo antes e depois. Lembrando que no meu caso o caminho termina em <code class="language-plaintext highlighter-rouge">firefox-esr</code> pois uso o Debian.</p>
+
+<p><img src="/img/linux/dialogo-antes.jpg" alt="Antes" /></p>
+
+<p><img src="/img/linux/dialogo-depois.jpg" alt="Depois" /></p>
+
+<h2 id="pronto">Pronto!</h2>
+
+<p>É pronto! Basta apenas reiniciar o navegador e testar a mudança salvando alguma imagem ou escolhendo o destino de algum download.</p>
+
+<h2 id="problemas-possíveis">Problemas possíveis</h2>
+
+<p>Se o seu navegador não estiver iniciando, você deve ter feito alguma edição errada no arquivo <code class="language-plaintext highlighter-rouge">firefox.desktop</code>. Certifique-se de não ter omitido ou apagado espaços necessários. Por isso é melhor sempre fazer uma cópia de segurança do arquivo original antes.</p>
+
+<p>Qualquer dificuldade me manda um email que posso tentar ajudar.</p>]]></content><author><name></name></author><category term="Linux" /><category term="Hacks" /><category term="KDE" /><category term="Firefox" /><summary type="html"><![CDATA[Alguns usuários do KDE Plasma – como era o meu caso – podem ter percebido que o Firefox usa por padrão as janelas de diálogo do GTK. Por exemplo, ao salvar uma imagem, a janela que aparece é uma janela diferente do Dolphin (imagem abaixo).]]></summary></entry><entry><title type="html">Links sobre trens, locomotivas e ferrovias</title><link href="http://localhost:4000/links-sobre-trens" rel="alternate" type="text/html" title="Links sobre trens, locomotivas e ferrovias" /><published>2022-10-09T00:00:00-03:00</published><updated>2022-10-09T00:00:00-03:00</updated><id>http://localhost:4000/links-sobre-trens</id><content type="html" xml:base="http://localhost:4000/links-sobre-trens"><![CDATA[<p><strong>Essa página está em constante atualização!</strong> 🏗️ Vou adicionando Links com matérias interessntes sobre trens 🚂. O conteúdo aqui pode interessar quem também ama trens como eu.</p>
 
 <h2 id="blogs-e-sites">Blogs e sites</h2>
 
@@ -270,35 +328,4 @@ Fonte: Allen Morrison</figcaption>
 
 <p>Infelizmente ainda não pude jogar Catan para 5-6 jogadores de forma presencial. A expansão é muito cara então só consigo jogar online através do site <a href="https://colonist.io/">https://colonist.io/</a>.</p>
 
-<p>É graças ao Catan que hoje estou viciado em jogar boardgames e querendo colecionar o máximo possível.</p>]]></content><author><name></name></author><category term="Boardgames" /><summary type="html"><![CDATA[Eu só conhecia jogos de tabuleiro como jogo da vida, banco imobiliário e War. Aliás, odiava esses jogos e, portanto, dizia que odiava jogos de tabuleiro. Mas tudo isso mudou quando um amigo meu me apresentou ao jogo Os colonizadores de Catan.]]></summary></entry><entry><title type="html">Lista de jogos de navegador para jogar com amigos</title><link href="http://localhost:4000/jogos-online-em-grupo" rel="alternate" type="text/html" title="Lista de jogos de navegador para jogar com amigos" /><published>2022-05-07T00:00:00-03:00</published><updated>2022-05-07T00:00:00-03:00</updated><id>http://localhost:4000/jogos-online-em-grupo</id><content type="html" xml:base="http://localhost:4000/jogos-online-em-grupo"><![CDATA[<p>Aqui trago uma lista de sites para jogar boardgames online direto no navegador, sem necessidade de baixar arquivos (alguns sites necessitam de criação de conta).</p>
-
-<ul>
-  <li>Colonist.io (Catan de graça até 4 jogadores)</li>
-  <li>Imperials.app (Catan de graça até 6 jogadores)</li>
-  <li>Codenames</li>
-  <li>AllBadCards</li>
-  <li>Gartic</li>
-  <li>Stops</li>
-  <li><a href="https://secrethitler.io/">Secret Hitler</a></li>
-  <li>https://boardgamearena.com/</li>
-  <li>https://tabletopia.com/</li>
-  <li>Coup</li>
-  <li>Pokemon Showdown</li>
-  <li>Dixit</li>
-  <li><a href="https://store.steampowered.com/app/1128810/RISK_Global_Domination/">Risk</a></li>
-</ul>
-
-<h2 id="bga">BGA</h2>
-
-<ul>
-  <li><a href="https://boardgamearena.com/gamepanel?game=raceforthegalaxy">Race for the galaxy</a></li>
-  <li>Innovation</li>
-  <li>Keyflower</li>
-  <li>La Granja</li>
-  <li>Lost Ruins of Arnak</li>
-  <li>The Castles of Burgundy</li>
-  <li>Troyes</li>
-  <li>Madeira</li>
-  <li>Dungeon Petz</li>
-  <li>Through the Ages</li>
-</ul>]]></content><author><name></name></author><category term="Boardgames" /><summary type="html"><![CDATA[Aqui trago uma lista de sites para jogar boardgames online direto no navegador, sem necessidade de baixar arquivos (alguns sites necessitam de criação de conta).]]></summary></entry></feed>
+<p>É graças ao Catan que hoje estou viciado em jogar boardgames e querendo colecionar o máximo possível.</p>]]></content><author><name></name></author><category term="Boardgames" /><summary type="html"><![CDATA[Eu só conhecia jogos de tabuleiro como jogo da vida, banco imobiliário e War. Aliás, odiava esses jogos e, portanto, dizia que odiava jogos de tabuleiro. Mas tudo isso mudou quando um amigo meu me apresentou ao jogo Os colonizadores de Catan.]]></summary></entry></feed>
