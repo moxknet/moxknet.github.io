@@ -1,11 +1,11 @@
 ---
-layout: default
+layout: default_en
 ---
 
 <h1>{{ page.title }}</h1>
-<span style="color: gray;">Publicado: {{ page.date | date: "%d-%m-%Y" }}</span><br>
+<span style="color: gray;">Published: {{ page.date | date_to_string }}</span><br>
 {% if page.modified %}
-<span style="color: gray;">Modificado: {{ page.modified | date: "%d-%m-%Y" }}</span>
+<span style="color: gray;">Modified at: {{ page.modified | date: "%d-%m-%Y" }}</span>
 {% else %}
 {% endif %}
 
