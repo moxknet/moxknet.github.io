@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-02-07T01:59:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOXK.net</title><subtitle>Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros... e o que mais der vontade.</subtitle><entry xml:lang="en"><title type="html">MOXK’s Age of Empires 2 guide to what to do in each age</title><link href="http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age" rel="alternate" type="text/html" title="MOXK’s Age of Empires 2 guide to what to do in each age" /><published>2023-02-06T00:00:00-03:00</published><updated>2023-02-06T00:00:00-03:00</updated><id>http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age</id><content type="html" xml:base="http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age"><![CDATA[<h2 id="what-to-do-in-dark-age">What to do in Dark Age</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-02-07T03:13:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOXK.net</title><subtitle>Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros... e o que mais der vontade.</subtitle><entry xml:lang="en"><title type="html">MOXK’s Age of Empires 2 guide to what to do in each age</title><link href="http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age" rel="alternate" type="text/html" title="MOXK’s Age of Empires 2 guide to what to do in each age" /><published>2023-02-06T00:00:00-03:00</published><updated>2023-02-06T00:00:00-03:00</updated><id>http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age</id><content type="html" xml:base="http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age"><![CDATA[<h2 id="what-to-do-in-dark-age">What to do in Dark Age</h2>
 
 <p>In this era your main objective is to <strong>collect food!</strong> Also, you will need to colect a bit of <strong>wood too to construct buildings</strong> and <strong>explore the map with your scou</strong>t.</p>
 
@@ -75,21 +75,29 @@
 <ul>
   <li><strong>6</strong> to <strong>sheep</strong> 🐑 (pop 7)</li>
   <li><strong>3</strong> on <strong>wood</strong> 🪵 (1º LC – pop 10)</li>
-  <li><strong>2</strong> lure <strong>boar</strong> 🐗 + <strong>sheep/boar under TC</strong> 🐗/🐑 (pop 12)</li>
+  <li><strong>2</strong> to lure <strong>boar</strong> 🐗 + <strong>sheep/boar under TC</strong> 🐗/🐑 (pop 12)</li>
   <li><strong>3</strong> to <strong>house</strong> 🏠 + <strong>mill</strong> on <strong>berries</strong> 🫐 (pop 15)</li>
-  <li><strong>1</strong> lure 2º <strong>boar</strong> 🐗 (pop 16)</li>
+  <li><strong>1</strong> to lure 2º <strong>boar</strong> 🐗 (pop 16)</li>
   <li><strong>1</strong> to <strong>berries</strong> 🫐 (4 total – pop 17)</li>
-  <li><strong>1</strong> to <strong>sheep/boar under TC</strong> 🐗/🐑 (10 total – pop 18)</li>
-  <li><strong>3</strong> to <strong>house</strong> 🏠 + <strong>wood</strong> 🪵 (2º LC – pop 21)</li>
+  <li><strong>1</strong> to <strong>house</strong> 🏠 + <strong>2º LC</strong> 🪵 (pop 18)</li>
+  <li><strong>1</strong> to <strong>sheep/boar under TC</strong> 🐗/🐑 (10 total – pop 19)</li>
+  <li><strong>2</strong> to <strong>wood</strong> 🪵 (1º LC; 5 total – pop 21)</li>
   <li>Research <strong>loom</strong> + <strong>click Feudal Age</strong> (<em>500 food</em>)</li>
 </ul>
 
-<p>On the way to Feudal: <strong>3 TC to wood</strong> 🪵 and build <strong>barrack ⚔️ at 60%</strong> up.</p>
+<p>On the way to Feudal:</p>
+
+<ul>
+  <li><strong>3 TC</strong> to <strong>wood</strong> 🪵 on 2º LC (5 in one and 4 on another)</li>
+  <li><strong>1 TC</strong> to <strong>house</strong> 🏠 at 40% + <strong>barrack ⚔️</strong> at 60% + <strong>wood</strong> 🪵 (2º LC; 5 total on each).</li>
+</ul>
+
+<p>TIP: only start making farms after reaching feudal age, otherwise you will run out of wood to make the stable. Send berry vills to farm as they run out.</p>
 
 <h2 id="feudal-age">Feudal Age</h2>
 
 <ul>
-  <li>Build <strong>stable 🐎 with 2 vills</strong>, make <strong>scouts</strong></li>
+  <li>Build <strong>stable 🐎 with 2 wood vills</strong>, make <strong>scouts</strong></li>
   <li>Research <strong>double bit axe</strong> + <strong>horse collar</strong></li>
   <li><strong>1</strong> to on <strong>wood</strong> 🪵 (total of 10; 5 on each LC)</li>
   <li><strong>7</strong> to <strong>farms</strong> 🌾 (chop TC trees and build farm as soon as hit <strong>60 wood</strong>)</li>
@@ -98,9 +106,12 @@
   <li>Click <strong>Castle Age</strong> (<em>800 food</em> + <em>200 gold</em>)</li>
 </ul>
 
-<p>TIP: send berry vills to farm as they run out.</p>
+<p>On the way to Castle:</p>
 
-<p>On the way to Castle: research <strong>bloodlines</strong> + <strong>cavalry armor</strong> + <strong>gold mining</strong> + build <strong>#2 stable</strong>.</p>
+<ul>
+  <li>Research <strong>bloodlines</strong> + <strong>cavalry armor</strong> + <strong>gold mining</strong></li>
+  <li>Build <strong>2º stable</strong></li>
+</ul>
 
 <h2 id="castle-age">Castle Age</h2>
 

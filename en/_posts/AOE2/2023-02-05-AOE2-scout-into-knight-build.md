@@ -15,19 +15,25 @@ Build 2 houses with 2 vills and another with 1 vill. Scout around the base to fi
 
 - **6** to **sheep** 🐑 (pop 7)
 - **3** on **wood** 🪵 (1º LC -- pop 10)
-- **2** lure **boar** 🐗 + **sheep/boar under TC** 🐗/🐑 (pop 12)
+- **2** to lure **boar** 🐗 + **sheep/boar under TC** 🐗/🐑 (pop 12)
 - **3** to **house** 🏠 + **mill** on **berries** 🫐 (pop 15)
-- **1** lure 2º **boar** 🐗 (pop 16)
+- **1** to lure 2º **boar** 🐗 (pop 16)
 - **1** to **berries** 🫐 (4 total -- pop 17)
-- **1** to **sheep/boar under TC** 🐗/🐑 (10 total -- pop 18)
-- **3** to **house** 🏠 + **wood** 🪵 (2º LC -- pop 21)
+- **1** to **house** 🏠 + **2º LC** 🪵 (pop 18)
+- **1** to **sheep/boar under TC** 🐗/🐑 (10 total -- pop 19)
+- **2** to **wood** 🪵 (1º LC; 5 total -- pop 21)
 - Research **loom** + **click Feudal Age** (*500 food*)
 
-On the way to Feudal: **3 TC to wood** 🪵 and build **barrack ⚔️ at 60%** up.
+On the way to Feudal: 
+
+- **3 TC** to **wood** 🪵 on 2º LC (5 in one and 4 on another) 
+- **1 TC** to **house** 🏠 at 40% + **barrack ⚔️** at 60% + **wood** 🪵 (2º LC; 5 total on each).
+
+TIP: only start making farms after reaching feudal age, otherwise you will run out of wood to make the stable. Send berry vills to farm as they run out.
 
 ## Feudal Age
 
-- Build **stable 🐎 with 2 vills**, make **scouts**
+- Build **stable 🐎 with 2 wood vills**, make **scouts**
 - Research **double bit axe** + **horse collar**
 - **1** to on **wood** 🪵 (total of 10; 5 on each LC)
 - **7** to **farms** 🌾 (chop TC trees and build farm as soon as hit **60 wood**)
@@ -35,9 +41,10 @@ On the way to Feudal: **3 TC to wood** 🪵 and build **barrack ⚔️ at 60%** 
 - Research **wheelbarrow** (when 5 on gold -- magic number) + build **blacksmith**
 - Click **Castle Age** (*800 food* + *200 gold*)
 
-TIP: send berry vills to farm as they run out.
+On the way to Castle: 
 
-On the way to Castle: research **bloodlines** + **cavalry armor** + **gold mining** + build **#2 stable**.
+- Research **bloodlines** + **cavalry armor** + **gold mining**
+- Build **2º stable**
 
 ## Castle Age
 
