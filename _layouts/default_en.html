@@ -1,15 +1,15 @@
 <!doctype html>
-<html lang="pt-BR" dir="ltr">
+<html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>{{ page.title }}</title>
     <link rel='shortcut icon' type='image/x-icon' href='/favicon.png'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- Begin SEO -->
     <meta name="generator" content="Jekyll v4.2.1" />
     <meta property="og:title" content="MOXK.net" />
-    <meta property="og:locale" content="pt_BR" />
+    <meta property="og:locale" content="en_US" />
     <meta name="description" content="Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros… e o que mais der vontade." />
     <meta property="og:description" content="Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros… e o que mais der vontade." />
     <link rel="canonical" href="https://moxk.net" />
@@ -125,29 +125,21 @@
   </head>
   <body>
     <nav>
-        <span>🏠 <a href="/">Início</a></span> &nbsp;
-        <span>🙋 <a href="/sobre">Sobre</a></span> &nbsp;
-        <span>🇬🇧 <a href="/en">English</a></span>
+        <span>🏠 <a href="/en/">Start</a></span> &nbsp;
+        <span>🙋 <a href="/en/about">About</a></span> &nbsp;
+        <span>🇧🇷 <a href="/">Português</a></span>
         <hr>
     </nav>
-    <!-- <h1></h1> -->
+    <!-- <h1>{{ page.title }}</h1> -->
     
     <section>
-      <h1></h1>
-
-<div class="container">
-  <h1 style="font-size: 4em; line-height: 1;">404</h1>
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
-</div>
-
-
+      {{ content }}
     </section>
     <footer>
         <br>
         <br>
         <hr>
-        <span>✉️ Gostou? Odiou? Quer falar comigo? Me manda um email: <a href="mailto:filipe@moxk.net.org">filipe@moxk.net</a></span><br>
+        <span>✉️ Did you liked? Wants to talk to me? Send me an email: <a href="mailto:{{ site.email }}.org">{{ site.email }}</a></span><br>
         <span>MOXK.net &copy; Filipe Mosca 2019-2023</span>
         <p>
         <a href="https://jigsaw.w3.org/css-validator/check/referer">

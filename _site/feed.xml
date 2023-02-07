@@ -1,4 +1,133 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2022-12-30T15:58:21-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOXK.net</title><subtitle>Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros... e o que mais der vontade.</subtitle><entry><title type="html">A despedidade de Pelé e um filme obrigatório: Fuga para a vitória</title><link href="http://localhost:4000/despedida-pele-e-um-filme-obrigatorio-fuga-para-vitoria" rel="alternate" type="text/html" title="A despedidade de Pelé e um filme obrigatório: Fuga para a vitória" /><published>2022-12-30T00:00:00-03:00</published><updated>2022-12-30T00:00:00-03:00</updated><id>http://localhost:4000/despedida-pele-e-um-filme-obrigatorio-fuga-para-vitoria</id><content type="html" xml:base="http://localhost:4000/despedida-pele-e-um-filme-obrigatorio-fuga-para-vitoria"><![CDATA[<p>Ontem o Rei Pelé, o maior jogador de futebol de todos os tempos, o grande responsável pelo Brasil ser hoje conhecido como o país do futebol, nos deixou. Para homenageá-lo, assisti novamente ao filme “Fuga para a vitória”, uma obra de arte estrelada pelo próprio Pelé ao lado de grandes astros do cinema como Sylvester Stallone e Michael Caine.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt-BR"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt-BR" /><updated>2023-02-06T23:19:55-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">MOXK.net</title><subtitle>Olá! Sou Filipe Mosca e escrevo sobre medicina, urbanismo, trens e simuladores de trens, futebol, Linux, filmes, boardgames, livros... e o que mais der vontade.</subtitle><entry xml:lang="en"><title type="html">MOXK’s Age of Empires 2 guide to what to do in each age</title><link href="http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age" rel="alternate" type="text/html" title="MOXK’s Age of Empires 2 guide to what to do in each age" /><published>2023-02-06T00:00:00-03:00</published><updated>2023-02-06T00:00:00-03:00</updated><id>http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age</id><content type="html" xml:base="http://localhost:4000/moxk-guide-aoe2-what-to-do-in-each-age"><![CDATA[<h2 id="what-to-do-in-dark-age">What to do in Dark Age</h2>
+
+<p>In this era your main objective is to <strong>collect food!</strong> Also, you will need to colect a bit of <strong>wood too to construct buildings</strong> and <strong>explore the map with your scou</strong>t.</p>
+
+<p><strong>Why the major objective is food?</strong> In this era you only have one military unit avaible, the militia, a very weak unit. So, usualy you don’t want to atack your enemy with this unit, you want to advance as quick as possible to the feudal age that has more and better military units.</p>
+
+<p>So, in dark age you want to queue new villagers without stop, to increase your worker base, collect 500 food and advance age. Each village cousts 50 food, the magic number of vills gathering food to allow for a constant queuing of new ones is 6 on food.</p>
+
+<p>When the game starts you will:</p>
+
+<ul>
+  <li>Build one house with two of the starting vills and build another with the third vill.</li>
+  <li>Start queuing new villagers without stop</li>
+  <li>When the vills finish to build the houses, select your sheeps and move them to your town center; the <strong>6 firsts vills will collects sheeps</strong>.</li>
+  <li>Take your scout and start exploring the map. You need to find: <strong>8 sheeps</strong>, <strong>3 gold</strong> mines, <strong>2 stones</strong> mines, <strong>2 wood</strong> places, <strong>2 boars</strong>. Next, go <strong>scout your oponnent</strong>.</li>
+  <li>The the 3-4 next vills need to collect <strong>wood</strong> and build a lumber camp.</li>
+  <li>The order of the next steps depend of the stategy and the build order you want to follow, but consist of <strong>lure the 2 boars</strong> and build a <strong>mill on the berries</strong> to collect even more food.</li>
+</ul>
+
+<p><strong>To advance to feudal age</strong> you will need to build two dark age buildings – a <strong>lumber camp</strong> and a <strong>mill</strong> – and pay <strong>500 food</strong>. Usually you want to advance to feudal age when your total population (vills + scout) hits <strong>21 pop</strong> – around 8-9 minutes.</p>
+
+<h2 id="what-to-do-in-feudal-age">What to do in Feudal Age</h2>
+
+<p>In this age, you now have <strong>much more military unit</strong> unlocking acess to <strong>Barracks</strong> (man-at-armsn and spearman), <strong>Archery range</strong> (foot archers and skirmishers) and <strong>Stable</strong> (scouts) – this could vary between civilizations. So, this is the era when the agressions between opponents starts.</p>
+
+<p>In this era your objective will be usually two options:</p>
+
+<ol>
+  <li><strong>Build an army and rush</strong> attacking the enemy.</li>
+  <li><strong>Fast advance to castle age</strong> to unlock better military units (keep booming the economy and collect gold).</li>
+</ol>
+
+<p>Don’t forget to remain <strong>continuously queueing new villagers</strong> and to <strong>research</strong> the economic (double bit axe and horse collar) and the military (blacksmith) <strong>upgrades</strong>.</p>
+
+<p><strong>Rush the enemy:</strong> Usually, build an army of scouts, man-at-arms or archers to attack your enemy, killing their villagers to damage their economy.</p>
+
+<p><strong>Go for fast castle:</strong> Wall your base and create some defensive units. To advance to Castle Age, you will need to build two Feudal Age buildings – usually two of stable, archery range, blacksmith and market – and pay <strong>800 food</strong> and <strong>200 gold</strong>.</p>
+
+<h2 id="what-to-do-in-castle-age">What to do in Castle Age</h2>
+
+<p>In this era your objetive will be to upgrade the army and expand the base.</p>
+
+<p><strong>Economic aspect:</strong> expand your base <strong>building new town centers</strong> in strategic resources (gold, wood, stone) and locations (hills). Usually, drop 2 new TCs (total of 200 stone coust, paying with the initial resources) to triple your villagers production and, consequently, your economy.</p>
+
+<p>Don’t forget to remain <strong>continuously queueing new villagers</strong> and to research the <strong>economic upgrades</strong>.</p>
+
+<p><strong>Military aspect:</strong> <strong>upgrade your army</strong> researching the upgrades (on blackstmith, stables, barracks, archery ranges, university and castle). You also gain acess to the <strong>siege workshop</strong> to create siege units. In this era you <strong>unlock the castles</strong>; build then in strategic resources (gold, stone) and locations (hills). Castles also unlocks your civilization unique military unit.</p>
+
+<p>Don’t forget to <strong>continuously build houses</strong> (because your units villagers and military units production will grow really fast) and to <strong>research</strong> the <strong>military upgrades</strong>.</p>
+
+<p>TIP: don’t forget to research <strong>ballistics</strong> (in university) for your ranged units.</p>
+
+<p>Also, start constructing more military buildings outside your base to gain map control (with visibility) and to enhance your production capacity.</p>
+
+<p>Build a <strong>monastery to collect the relics</strong> around the map. They give you gold per second and are extremely importante when the gold mines become escarse.</p>
+
+<p>The coust to advance to Imperial Age are <strong>1000 food</strong> and <strong>800 gold</strong> – very expensive. If your enemy has just advanced to the imperial age, it could mean that he was saving resources to do so. It might be the ideal time to attack him, picking him up with a small army.</p>
+
+<h2 id="what-to-do-in-imperial-age">What to do in Imperial Age</h2>
+
+<p>This era is an upgrade of the same objectives of the Castle Age: upgrade your army and keep expanding your base and economy.</p>
+
+<p>Don’t forget to remain <strong>continuously queueing new villagers</strong> until you hit aroung 140 villagers in total, leaving 60 pop to build a great army. If your army dies, the 140 vills collecting resources will enable you to rebuild your army very fast (with a lot of stables, archery ranges… around the map).</p>
+
+<p>In imperial age you unlock a very strategic unit, the <strong>trebuchet</strong> (in the castle). Use them to destroy the enemy buildings, especially castles and town center, at distance.</p>
+
+<p>TIP: don’t forget to research <strong>quimic</strong> (in university) for your ranged units. This upgrade increase de damage of arrows and unlock the <strong>gunpowder units</strong>.</p>]]></content><author><name></name></author><category term="AoE2" /><summary type="html"><![CDATA[What to do in Dark Age]]></summary></entry><entry xml:lang="en"><title type="html">AOE2 21 pop Scouts into Knights build order</title><link href="http://localhost:4000/AOE2-scout-into-knight-build" rel="alternate" type="text/html" title="AOE2 21 pop Scouts into Knights build order" /><published>2023-02-05T00:00:00-03:00</published><updated>2023-02-05T00:00:00-03:00</updated><id>http://localhost:4000/AOE2-scout-into-knight-build</id><content type="html" xml:base="http://localhost:4000/AOE2-scout-into-knight-build"><![CDATA[<p>Essa é a primeira build order que aprendi no jogo e a que mais gosto de fazer, principalmente jogando de Franks. Vou manter em inglês pois isso aproxima o jogo da comunidade internacional.</p>
+
+<h2 id="match-start">Match start</h2>
+
+<p>Build 2 houses with 2 vills and another with 1 vill. Scout around the base to find: <strong>8 sheeps</strong>, <strong>2 boars</strong>, berries, deers, <strong>3 golds</strong>, <strong>2 stones</strong>; then, go scout the enemy base.</p>
+
+<h2 id="dark-age">Dark Age</h2>
+
+<ul>
+  <li><strong>6</strong> to <strong>sheep</strong> 🐑 (pop 7)</li>
+  <li><strong>3</strong> on <strong>wood</strong> 🪵 (1º LC – pop 10)</li>
+  <li><strong>2</strong> lure <strong>boar</strong> 🐗 + <strong>sheep/boar under TC</strong> 🐗/🐑 (pop 12)</li>
+  <li><strong>3</strong> to <strong>house</strong> 🏠 + <strong>mill</strong> on <strong>berries</strong> 🫐 (pop 15)</li>
+  <li><strong>1</strong> lure 2º <strong>boar</strong> 🐗 (pop 16)</li>
+  <li><strong>1</strong> to <strong>berries</strong> 🫐 (4 total – pop 17)</li>
+  <li><strong>1</strong> to <strong>sheep/boar under TC</strong> 🐗/🐑 (10 total – pop 18)</li>
+  <li><strong>3</strong> to <strong>house</strong> 🏠 + <strong>wood</strong> 🪵 (2º LC – pop 21)</li>
+  <li>Research <strong>loom</strong> + <strong>click Feudal Age</strong> (<em>500 food</em>)</li>
+</ul>
+
+<p>On the way to Feudal: <strong>3 TC to wood</strong> 🪵 and build <strong>barrack ⚔️ at 60%</strong> up.</p>
+
+<h2 id="feudal-age">Feudal Age</h2>
+
+<ul>
+  <li>Build <strong>stable 🐎 with 2 vills</strong>, make <strong>scouts</strong></li>
+  <li>Research <strong>double bit axe</strong> + <strong>horse collar</strong></li>
+  <li><strong>1</strong> to on <strong>wood</strong> 🪵 (total of 10; 5 on each LC)</li>
+  <li><strong>7</strong> to <strong>farms</strong> 🌾 (chop TC trees and build farm as soon as hit <strong>60 wood</strong>)</li>
+  <li><strong>5</strong> to <strong>gold</strong> 🪙 (around 14’ ~ pop 28)</li>
+  <li>Research <strong>wheelbarrow</strong> (when 5 on gold – magic number) + build <strong>blacksmith</strong></li>
+  <li>Click <strong>Castle Age</strong> (<em>800 food</em> + <em>200 gold</em>)</li>
+</ul>
+
+<p>TIP: send berry vills to farm as they run out.</p>
+
+<p>On the way to Castle: research <strong>bloodlines</strong> + <strong>cavalry armor</strong> + <strong>gold mining</strong> + build <strong>#2 stable</strong>.</p>
+
+<h2 id="castle-age">Castle Age</h2>
+
+<ul>
+  <li>Make knights</li>
+  <li>2 more vills to gold (total of 7 to continue making knights)</li>
+  <li>Drop <strong>2 TCs</strong> on <strong>gold + wood</strong></li>
+  <li>Research <strong>bow saw</strong></li>
+</ul>
+
+<p>TIP: each TC cousts <em>275 wood</em> + <em>100 stone</em>; if you spend the inicial stone you will not be able to build the TCs, unless you collect more stone.</p>
+
+<p>After 3 TCs: drop more stables on the front to continue building scouts. Consider droping siege on the front (especially hills) to breake walls + buildings.</p>
+
+<p>When decision to go Imperial Age: build 2 of <strong>castle</strong>, <strong>university</strong>, <strong>monastery</strong> or <strong>siege workshop</strong>; invest on food + gold. Click Imperial Age (<em>1000 food</em> + <em>800 gold</em>)</p>
+
+<p>Collect the relics and drop castles on the hills to take control of the map and the strategic resources (gold and stone).</p>
+
+<h2 id="imperial-age">Imperial Age</h2>
+
+<p>Continue queueing villagers until ~140, leaving 60 pop to building a good and fully upgraded army.</p>
+
+<p>Expand the base around the corners of the maps and take control of the hills.</p>
+
+<p>Build trebuchets to break the enemy castle and other buildings/walls. Make sure to protect your trbuchets with your troops.</p>
+
+<p>Don’t forget to research the economic and military upgrades to build the strongest army.</p>]]></content><author><name></name></author><category term="AoE2" /><summary type="html"><![CDATA[Essa é a primeira build order que aprendi no jogo e a que mais gosto de fazer, principalmente jogando de Franks. Vou manter em inglês pois isso aproxima o jogo da comunidade internacional.]]></summary></entry><entry><title type="html">A despedidade de Pelé e um filme obrigatório: Fuga para a vitória</title><link href="http://localhost:4000/despedida-pele-e-um-filme-obrigatorio-fuga-para-vitoria" rel="alternate" type="text/html" title="A despedidade de Pelé e um filme obrigatório: Fuga para a vitória" /><published>2022-12-30T00:00:00-03:00</published><updated>2022-12-30T00:00:00-03:00</updated><id>http://localhost:4000/despedida-pele-e-um-filme-obrigatorio-fuga-para-vitoria</id><content type="html" xml:base="http://localhost:4000/despedida-pele-e-um-filme-obrigatorio-fuga-para-vitoria"><![CDATA[<p>Ontem o Rei Pelé, o maior jogador de futebol de todos os tempos, o grande responsável pelo Brasil ser hoje conhecido como o país do futebol, nos deixou. Para homenageá-lo, assisti novamente ao filme “Fuga para a vitória”, uma obra de arte estrelada pelo próprio Pelé ao lado de grandes astros do cinema como Sylvester Stallone e Michael Caine.</p>
 
 <p><img src="/img/futebol/fuga-pra-vitoria.jpg" alt="Página do filme &quot;Fuga para a vitória&quot; no Letterboxd" /></p>
 
@@ -239,65 +368,4 @@ Fonte: Allen Morrison</figcaption>
   <li>Perfil no Twitter do @FuckCarsReddit: <a href="https://twitter.com/FuckCarsReddit">https://twitter.com/FuckCarsReddit</a></li>
   <li>Página do subreddit FuckCars: <a href="https://www.reddit.com/r/fuckcars/">https://www.reddit.com/r/fuckcars/</a></li>
   <li>Matéria do TheGuardian: <a href="https://www.theguardian.com/cities/2014/jul/07/in-a-successful-modern-city-the-car-must-no-longer-be-king">In a successful modern city, the car must no longer be king</a></li>
-</ul>]]></content><author><name></name></author><category term="Urbanismo" /><category term="FuckCars" /><summary type="html"><![CDATA[Já perceberam como algumas cidades foram construídas de uma forma que desestimula completamente o tráfego de pedestres?]]></summary></entry><entry><title type="html">Como trens funcionam</title><link href="http://localhost:4000/como-trens-funcionam" rel="alternate" type="text/html" title="Como trens funcionam" /><published>2022-10-05T00:00:00-03:00</published><updated>2022-10-05T00:00:00-03:00</updated><id>http://localhost:4000/como-trens-funcionam</id><content type="html" xml:base="http://localhost:4000/como-trens-funcionam"><![CDATA[<p>Me viciei completamente em trens. Posso dizer que sou um “nerd de trens”, como já vi algumas pessoas dizendo no Twitter. Abaixo vou listar alguns materiais que andei consultando para aprender um pouco mais sobre como os trens funcionam.</p>
-
-<h2 id="motor-das-locomotivas">Motor das locomotivas</h2>
-
-<p>O video abaixo explica o funcionamento básico dos trens elétricos, desde a coleta da energia pelos pantógrafos, até o motor girar os eixos das rodas.</p>
-
-<div class="videoContainer">
-<iframe src="https://www.youtube.com/embed/GJbUI2D3rLY"></iframe>
-</div>
-
-<h2 id="rodas-e-trilhos">Rodas e trilhos</h2>
-
-<p>Esse vídeo abaixo é impressionante, principalmente quando a roda dá um pequeno salto na hora de trocar de linha.</p>
-
-<div class="videoContainer">
-<iframe src="https://www.youtube.com/embed/pJw5wpdQ54w"></iframe>
-</div>
-
-<p>Esse outro vídeo explica melhor, mostrando que as rodas dos trens na verdade têm formato cônico, impedindo que escape dos trilhos (incrivelmente não existe nenhum mecanismo sofisticado prendendo as rodas nos trilhos).</p>
-
-<div class="videoContainer">
-<iframe src="https://www.youtube.com/embed/XzgryPhtc1Y"></iframe>
-</div>
-
-<h2 id="sinalização-da-ferrovia">Sinalização da ferrovia</h2>
-
-<p><a href="https://www.youtube.com/watch?v=ABVT8MOYb1g">https://www.youtube.com/watch?v=ABVT8MOYb1g</a>.</p>
-
-<h2 id="como-funcionam-os-trilhos">Como funcionam os trilhos</h2>
-
-<p><a href="https://www.youtube.com/watch?v=FA3zb4dubPE">https://www.youtube.com/watch?v=FA3zb4dubPE</a>.</p>]]></content><author><name></name></author><category term="Trens" /><summary type="html"><![CDATA[Me viciei completamente em trens. Posso dizer que sou um “nerd de trens”, como já vi algumas pessoas dizendo no Twitter. Abaixo vou listar alguns materiais que andei consultando para aprender um pouco mais sobre como os trens funcionam.]]></summary></entry><entry><title type="html">Como jogar o simulador de trens OpenBVE</title><link href="http://localhost:4000/como-jogar-openbve" rel="alternate" type="text/html" title="Como jogar o simulador de trens OpenBVE" /><published>2022-10-04T00:00:00-03:00</published><updated>2022-10-04T00:00:00-03:00</updated><id>http://localhost:4000/como-jogar-openbve</id><content type="html" xml:base="http://localhost:4000/como-jogar-openbve"><![CDATA[<p>OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes “BVE”. É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).</p>
-
-<h2 id="baixando-e-instalando-o-openbve">Baixando e instalando o OpenBVE</h2>
-
-<p>O OpenBVE pode ser baixado no site oficial: <a href="https://openbve-project.net/">https://openbve-project.net/</a>. O código fonte do simulador é hospedado no GitHub e pode ser acessado por aqui: <a href="https://github.com/leezer3/OpenBVE">https://github.com/leezer3/OpenBVE</a> (interessante notar que o simulador continua sendo desenvolvido pelos programadores. O último update no código foi ontem).</p>
-
-<h2 id="comandos-e-como-jogar">Comandos e como jogar</h2>
-
-<p>Esse site aqui, o <a href="https://www.openbve.net/en">https://www.openbve.net/en</a> tem uma página ensinando todo o necessário para começar a pilotar locomotivas: <a href="https://www.openbve.net/en/drive.php#obj">https://www.openbve.net/en/drive.php#obj</a>. Mas para começar a jogar é necessário antes baixar as rotas e as locomotivas (os addons). Esse mesmo site também disponibiliza links para o download de vários addons: <a href="https://www.openbve.net/en/line.php">https://www.openbve.net/en/line.php</a>.</p>
-
-<h2 id="sinalizações-das-rotas">Sinalizações das rotas</h2>
-
-<p>Também tem uma página descrevendo os principais sinais encontrados nas rotas e seus significados: <a href="https://www.openbve.net/en/sign.php">https://www.openbve.net/en/sign.php</a>.</p>
-
-<h2 id="rota-que-recomendo-para-pilotar-pela-primeira-vez">Rota que recomendo para pilotar pela primeira vez</h2>
-
-<p>Se você está abrindo o simulador pela primeira vez, recomendo fortemente começar pela rota <a href="https://railsimroutes.net/bve_trainsim/x-city_south.php">
-<strong>Birmingham Cross-City South</strong></a> com a locomotiva <strong>Class 323</strong>. Ela é muita bem feita pelo Anthony Bowden do site <a href="https://railsimroutes.net">https://railsimroutes.net</a>.</p>
-
-<p><img src="/img/posts/openbve/xcs_1_31_redditch.jpg" alt="Birmingham Cross-City South screenshot da rota" /></p>
-
-<p>O interessante de já começar por essa rota é que o autor criou um tutorial completo ensinando como pilotar, ensinando todas as sinalizações da via e também ensinando como operar os sistemas de segurança (que no início parecem ser muito intimidadores – AWS e TPWS).</p>
-
-<p><img src="/img/posts/openbve/class323.jpeg" alt="Birmingham Cross-City South screenshot da rota" /></p>
-
-<ul>
-  <li>Link para o tutorial (“Driver’s guide”) com a locomotiva Class 323: <a href="https://railsimroutes.net/driversguide/tutorial_class323_openbve.php">https://railsimroutes.net/driversguide/tutorial_class323_openbve.php</a></li>
-  <li>Guia das sinalizações: <a href="https://railsimroutes.net/driversguide/signalling.php">https://railsimroutes.net/driversguide/signalling.php</a></li>
-  <li>Guida dos sistemas de segurança: <a href="https://railsimroutes.net/driversguide/lineside_signs.php">https://railsimroutes.net/driversguide/lineside_signs.php</a></li>
-</ul>
-
-<p>Para <strong>assistir uma simulação comentada dessa rota no YouTube</strong>, recomendo o vídeo do Dad Rails (maquinista de verdade): <a href="https://www.youtube.com/watch?v=XlVI6XMKaxc&amp;t=3408s">Train Driver Plays Open BVE Birmingham Cross City South</a>.</p>]]></content><author><name></name></author><category term="Videogames" /><category term="OpenBVE," /><category term="TrainSims" /><summary type="html"><![CDATA[OpenBVE é um simulador gratuito e Open Source baseado no simulador japônes “BVE”. É bem antigo e com gráficos datados mas continua sendo considerado um dos melhores simuladores disponíveis atualmente, com o grande benefício de ser gratuito e de poder rodar em qualquer torradeira e sistema operacional (incluindo, claro, meu amado Linux).]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="Urbanismo" /><category term="FuckCars" /><summary type="html"><![CDATA[Já perceberam como algumas cidades foram construídas de uma forma que desestimula completamente o tráfego de pedestres?]]></summary></entry></feed>

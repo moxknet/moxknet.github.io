@@ -1,0 +1,38 @@
+---
+layout: default_en
+title: MOXK.net
+---
+
+<img id="logo" src="/img/logo/moxk.png" alt="MOXK.net">
+
+<h2 style="margin-top: 18px;">Welcome! 👋</h2>
+<p>Hi! I'm <b>Filipe Mosca</b> and this is my blog. I'm a physician from Brazil 🇧🇷 who live in Recife <img rel="Bandeira de Recife" src="/img/recife1.png" height="13" style="display: inline; margin: 0;">, capital of Pernambuco <img rel="Bandeira de Recife" src="/img/pe1.png" height="13" style="display: inline; margin: 0;">. Here I write about <b>medicine, urbanism, trains, footbal, Linux, cinema, boardgames, books...</b> and more.</p>
+
+<h2>My social links:</h2>
+<ul id="icons">
+  <li>🐦 <a href="https://twitter.com/filipemosca" target="blank">Twitter</a></li>
+  <li>🐘 <a rel="me" href="https://mastodon.green/@moxk">Mastodon</a></li>
+  <li>🎥 <a href="https://letterboxd.com/filipemosca/">Letterboxd</a></li>
+  <li>🎲 <a href="https://boardgamegeek.com/user/filipemosca">Board Game Geek</a></li>
+  <li>💻 <a href="https://github.com/filipemosca">Github</a></li>
+</ul>
+
+<h2>Pages</h2>
+<ul>
+  <li><a href="/pages/aoe2">Age of Empires 2 (AoE2)</a></li>
+
+</ul>
+
+<h2>Blog</h2>
+<ul id="blog_posts">
+{% assign filtered_posts = site.posts | where:"lang","en" %}
+{% for post in filtered_posts %}
+  <li>
+    <span><a href="{{ post.url }}">{{ post.title }}</a></span>
+    <br>
+    <span class="post_date">{{ post.date | date_to_string }} <span class="{{ post.category }}">#{{ post.category }}</span></span>
+
+  </li>
+{% endfor %}
+</ul>
+
