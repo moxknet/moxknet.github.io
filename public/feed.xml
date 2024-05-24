@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Evolução do MOXK!</title>
+  <link>https://moxk.net</link>
+  <description>Blog de um médico com crises de hiperfoco</description>
+  <item>
+    <title>#1 Evolução</title>
+    <link>https://moxk.net/evo/1</link>
+    <description>Primeira edição da evolução do MOXK!</description>
+  </item>
+</channel>
+
+</rss>
