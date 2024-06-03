@@ -11,7 +11,7 @@ layout: default
 </style>
 
 <center>
-<img style="display: block; margin: 0 auto; max-width: 95%; margin: 15px;" src="/moxk.png" alt="Logo" />
+<img style="display: block; margin: 0 auto; max-width: 95%; margin: 15px;" src="/logo-flat.png" alt="Logo" />
 <h2>Bem vindo(a)!</h2>
 <p style="max-width: 700px;">Olá! Sou Filipe, médico e robista nas horas vagas. Este é
 meu pedacinho da web onde escrevo sobre meus hiperfocos (mais) e também sobre medicina (menos).</p>
