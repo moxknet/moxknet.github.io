@@ -4,14 +4,14 @@ layout: default
 ---
 
 <style>
-	body {background-image: url('img/moxk.jpeg');}
+	body {background-image: url('img/tile3.png');}
 	dt {font-weight: normal;}
 	h2 {font-size: 1.2em; margin-bottom: 0; padding-bottom: 0;}
 	p {margin-top: 0; padding-top: 0;}
 </style>
 
 <center>
-<img style="display: block; margin: 0 auto; max-width: 95%; margin: 15px;" src="/logo-flat.png" alt="Logo" />
+<img style="display: block; margin: 0 auto; max-width: 95%; margin: 15px;" src="/moxk.png" alt="Logo" />
 <h2>Bem vindo(a)!</h2>
 <p style="max-width: 700px;">Olá! Sou Filipe, médico e robista nas horas vagas. Este é
 meu pedacinho da web onde escrevo sobre meus hiperfocos (mais) e também sobre medicina (menos).</p>
