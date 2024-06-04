@@ -4,6 +4,20 @@ body {
     padding: 10px;
     font-family: Verdana, Helvetica, sans-serif;
 }
+nav {display: block; text-align: center;}
+header {
+    max-width: 700px;
+    display: block;
+    margin: 0 auto;
+    text-align:center;
+}
+header img {
+    margin: 0 auto;
+    max-width: 95%;
+    margin: 7px;
+}
+footer {text-align: center;}
+
 h1 {text-align: center; font-size: 2em;}
 h1, h2, h3, h4, h5, h6 {
     font-family: "Times New Roman", Times, Serif;
@@ -11,6 +25,4 @@ h1, h2, h3, h4, h5, h6 {
 h2 {margin-bottom: 4px; margin-top: 10px;}
 dl {margin-top: 2px;}
 dt {font-weight: bold;}
-nav {display: block; text-align: center;}
-footer {text-align: center;}
-/* nav a {text-align: right;} */
+
