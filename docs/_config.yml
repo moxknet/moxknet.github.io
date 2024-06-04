@@ -37,6 +37,7 @@ defaults:
       type: "posts"
     values:
       layout: "blog"
+      permalink: /:year/:title
   - scope:
       path: ""
       type: "pages"
