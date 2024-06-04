@@ -3,7 +3,7 @@ title: MOXK.net
 layout: default
 ---
 
-<style>
+<style type="text/css">
 	body {background-image: url('img/tile3.png');}
 	dt {font-weight: normal;}
 	h2 {font-size: 1.2em; margin-bottom: 0; padding-bottom: 0;}
