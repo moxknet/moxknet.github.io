@@ -1,1 +1,0 @@
-# namoxk.github.io

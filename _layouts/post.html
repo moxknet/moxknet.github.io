@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+<i>Postado em:
+{{ page.date | date: "%d %b %Y" | replace: "Jan", "Janeiro" | replace: "Feb", "Fevereiro" | replace: "Mar", "Março" | replace: "Apr", "Abril" | replace: "May", "Maio" | replace: "Jun", "Junho" | replace: "Jul", "Julho" | replace: "Aug", "Agosto" | replace: "Sep", "Setembro" | replace: "Oct", "Outubro" | replace: "Novembro", "Nov" | replace: "Dec", "Dezembro" }}
+</i>
+
+{{ content }}
