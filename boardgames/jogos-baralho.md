@@ -1,0 +1,63 @@
+---
+title: Jogos de Baralho
+---
+
+<p>Abaixo segue uma lista com os jogos de baralho que mais gosto, acompanhados de um
+breve comentário. A medida que vou aprendendo e jogando novos jogos, vou atualizando
+essa lista. Clicando nos nomes dos jogos você acessa a respectiva entrada deles na
+página Pagat.com (um portal da web que coleciona um quantidade absurda de jogos de
+vários lugares do globo com as suas respectivas regras para jogar).</p>
+
+<dl>
+<dt>Buraco</dt>
+<dd>Meu jogo favorito e que joguei por toda minha infância. Aprendi a jogar com minha
+mãe e com meus avós. É um jogo de 4 pessoas em duplas (2x2) em que cada dupla compete
+para ver quem consegue formar mais sequências de cartas e no final faz mais
+pontos. Buraco é um jogo que (diz-se) foi criado no Brasil e deriva do jogo Uruguaio
+"Canastra" que, por sua vez, deriva do gringo "Canasta". Existem várias variações de
+Buraco mas a que gosto de jogar mais é o buraco aberto sem trincas (basicamente
+essa <a href="https://pagat.com/rummy/buraco.html">versão descrita no Pagat</a>.</dd>
+
+<dt>Espadas</dt>
+<dd>Joguinho muito legal. Tem várias variações sendo que até hoje joguei apenas em 3
+jogadores. Pelos sites afora dizem que é melhor jogado em duplas (2x2), mas ainda
+não tive essa oportunidade.</dd>
+
+<dt>Bridge</dt>
+<dd>Uma versão <i>hardcore</i> do Espadas, referido por aí como "o xadrez de baralho"
+por ser um jogo muito estratégico com pouco (ou, na variante <i>duplicada</i>, nenhum)
+elemento de sorte. Já joguei muitos jogos de <i>Rubber bridge</i> e <i>Chicado
+Bridge</i>, mas todos contra bots, principalmente no programa <i>Easy Brige</i> que
+instalei no Linux pelo Wine. Ainda quero jogar com meus amigos (provavelmente a
+variante Chicado Bridge que é mais rápida).</dd>
+
+<dt>Copas</dt>
+<dd>Quase o oposto do Espadas. Ainda não joguei mas já deixei aqui na lista pois com
+certeza vou jogar.</dd>
+
+<dt><a href="https://www.pagat.com/rummy/500rum.html">Rummy 500</a></dt>
+<dd>No top 5 dos jogos mais populares do Pagat. No mesmo estilo do buraco de formar
+sequências ou trincas mas um tanto mais simples. Também existem várias outras
+variações desse jogo.</dd>
+
+<dt><a href="https://www.pagat.com/quartet/gofish.html#fish">Go Fish</a></dt>
+<dd>Esse é um jogo que já vi sendo jogado em alguns filmes e séries mas nunca tinha
+conseguido descobrir qual era. O jogo consiste em acumular todas as 4 cartas
+de cada naipe, perguntando pra um jogador se ele tem as cartas. Se ele tiver,
+é obrigado a lhe dar. Possui três varições: <b>Authors</b>, <b>Happy
+Families</b> e a versão mais desafiadora, <b>Literature</b>.</dd>
+
+<dt>Whisky Poker</dt>
+<dd>Em breve.</dd>
+
+</dl>
+
+<h2>Quer conhecer mais jogos?</h2>
+
+<p>Os sites abaixo são coleções de vários jogos de cartas, agrupando-os em números
+jogadores e gênero, explicando também as regras. </p>
+
+<ul>
+<li><a href="www.pagat.com">Pagat</a></li>
+<li><a href="https://bicyclecards.com/how-to-play">Bicycle Learn To Play</a></li>
+</ul>

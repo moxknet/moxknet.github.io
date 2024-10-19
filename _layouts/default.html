@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "pt-BR" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico'/>
+  </head>
+  <body>
+    <nav>
+      <a href="/" style="font-weight: bold">MOXK.net</a> <span style="color:red">•</span>
+      <a href="https://x.com/MOXKnet" style="font-weight: bold">Twitter</a> <span style="color:red">•</span>
+      <a href="/sobre">Sobre</a> <span style="color:red">•</span>
+      <a href="/uso">Uso</a>
+      <hr>
+    </nav>
+    <h1>{{ page.title }}</h1>
+      {{ content }}
+  </body>
+</html>

@@ -1,0 +1,25 @@
+url: "https://moxk.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+title: "MOXK.net" # the name of your site, e.g. ACME Corp.
+
+livereload: true
+
+defaults:
+  # Para todas as páginas e postagens
+  - scope:
+      path: "" # Aplica a todas as páginas e postagens
+    values:
+      layout: "default"
+  - scope:
+      path: ""  # Aplica a todos os arquivos
+      type: "posts"  # Aplica apenas a posts
+    values:
+      layout: "post"
+  - scope:
+      path: "boardgames"
+    values:
+      categories: boardgames
+  - scope:
+      path: "medicina"
+    values:
+      categories: medicina

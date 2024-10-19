@@ -1,0 +1,17 @@
+body {
+  background: #ffffff;
+  color: #000000;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+body {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+dt {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=main.css.map */
