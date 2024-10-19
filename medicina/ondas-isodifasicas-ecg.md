@@ -1,5 +1,5 @@
 ---
-title: Como são criadas ondas isodifásicas no ECG
+title: ⚡️ Como são criadas ondas isodifásicas no ECG
 date: 2020-08-31
 ---
 

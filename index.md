@@ -1,15 +1,7 @@
 ---
-layout: index
+layout: default
 title: "MOXK.net"
 ---
-
-<style>
-body {
-  background-image: url('/tile.png');
-}
-</style>
-
-<img src="moxk.png" alt="Logo" style="display: inline-block">
 
 Bem vindo! Sou um médico generalista com vários hiperfocos e que gosta de compartilhar coisas.
 
