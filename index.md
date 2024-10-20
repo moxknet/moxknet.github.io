@@ -3,7 +3,7 @@ layout: default
 title: "MOXK.net"
 ---
 
-Bem vindo! Sou um médico generalista com vários hiperfocos e que gosta de compartilhar coisas.
+Bem vindo(a)! Sou um médico generalista com vários hiperfocos e que gosta de compartilhar coisas.
 
 ## Boardgames
 
@@ -38,3 +38,7 @@ Bem vindo! Sou um médico generalista com vários hiperfocos e que gosta de comp
     </li>
   {% endfor %}
 </ul>
+
+## Tarefas
+
+- [ ] Ler o estudo [AXADIA-AFNET 8](https://pubmed.ncbi.nlm.nih.gov/36335915/) comparando a segunrança de anticoagular pacientes dialíticos com apixabana versus varfarina.
