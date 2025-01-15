@@ -1,5 +1,5 @@
 ---
-title: ⚡️ Posicionamento dos eletrodos no ECG
+title: Posicionamento dos eletrodos no ECG
 ---
 
 Um pequeno guia pra consulta rápida.

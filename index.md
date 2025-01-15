@@ -3,9 +3,21 @@ layout: default
 title: "MOXK.net"
 ---
 
-Bem vindo(a)! Sou um médico generalista com vários hiperfocos e que gosta de compartilhar coisas.
+Bem vindo(a)! Esse _website_ é a casa dos meus hobbies!
 
-## Boardgames
+## Aquarela 🖼️
+
+<ul>
+  {% for page in site.pages %}
+    {% if page.title and page.url != "/" and page.categories contains "aquarela" %}
+      <li>
+        <a href="{{ page.url }}">{{ page.title }}</a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
+
+## Boardgames 🎲
 
 <ul>
   {% for page in site.pages %}
@@ -17,11 +29,11 @@ Bem vindo(a)! Sou um médico generalista com vários hiperfocos e que gosta de c
   {% endfor %}
 </ul>
 
-## Medicina
+## Canetas ✒️
 
 <ul>
   {% for page in site.pages %}
-    {% if page.title and page.url != "/" and page.categories contains "medicina" %}
+    {% if page.title and page.url != "/" and page.categories contains "canetas" %}
       <li>
         <a href="{{ page.url }}">{{ page.title }}</a>
       </li>
@@ -38,8 +50,3 @@ Bem vindo(a)! Sou um médico generalista com vários hiperfocos e que gosta de c
     </li>
   {% endfor %}
 </ul>
-
-## Tarefas
-
-- [ ] Ler o estudo [Invasive Treatment Strategy for Older Patients with Myocardial Infarction](https://www.nejm.org/doi/full/10.1056/NEJMoa2407791)
-- [ ] Ler o estudo [AXADIA-AFNET 8](https://pubmed.ncbi.nlm.nih.gov/36335915/) comparando a segunrança de anticoagular pacientes dialíticos com apixabana versus varfarina.

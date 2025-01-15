@@ -24,3 +24,11 @@ defaults:
       path: "medicina"
     values:
       categories: medicina
+  - scope:
+      path: "canetas"
+    values:
+      categories: canetas
+  - scope:
+      path: "aquarela"
+    values:
+      categories: aquarela
