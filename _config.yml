@@ -21,7 +21,7 @@ defaults:
     values:
       categories: boardgames
   - scope:
-      path: "medicina"
+      path: "medicinadasruas"
     values:
       categories: medicina
   - scope:

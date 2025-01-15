@@ -7,7 +7,7 @@ Um blog de um médico escrito para médicos.
 
 <ul>
   {% for page in site.pages %}
-    {% if page.categories contains "medicina" and page.title != "Medidina das Ruas" and page.url != "/medicinadasruas/" %}
+    {% if page.categories contains "medicina" and page.title != "Medicina das Ruas" %}
       <li>
         <a href="{{ page.url }}">{{ page.title }}</a>
       </li>
