@@ -8,5 +8,6 @@ body {
   font-family: Arial, Sans;
   max-width: 900px;
   margin: 10px auto;
+  padding: 5px;
 }
 dt {font-weight: bold;}
