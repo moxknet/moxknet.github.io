@@ -11,4 +11,11 @@ dt {
   font-weight: bold;
 }
 
+.footnotes {
+  font-size: 85%;
+}
+.footnotes p {
+  margin: 4px;
+}
+
 /*# sourceMappingURL=main.css.map */
