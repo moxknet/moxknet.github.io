@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Busca rápida no PubMed</title>
+<link href="/style.css" rel="stylesheet" type="text/css" media="all">
+<link rel='shortcut icon' type='image/x-icon' href='/medruas/favicon.ico'/>
+</head>
+
+<body>
+    ⬅️ <a href="/medruas"> Voltar</a>
+
+    <h2>Busca filtrada no PubMed</h2>
+    <form onsubmit="buscarPubmed(); return false;">
+    <input type="text" id="termo" placeholder="Digite o termo (ex: pneumonia)" size="40" required>
+    <button type="submit">Buscar</button>
+    </form>
+
+    <p>Essa ferramenta busca artigos de revisão nas revistas: NEJM, Lancet, JAMA, BMJ e Annals of Internal Medicine.</p>
+
+    <script>
+    function buscarPubmed() {
+        const termo = document.getElementById("termo").value.trim();
+        if (!termo) return;
+
+        const baseUrl = "https://pubmed.ncbi.nlm.nih.gov/?term=";
+        const filtros = '+AND+("N+Engl+J+Med"[Journal]+OR+"Lancet"[Journal]+OR+"JAMA"[Journal]+OR+"Ann+Intern+Med"[Journal]+OR+"BMJ"[Journal])+AND+(Review[ptyp])&sort=date';
+        const url = baseUrl + encodeURIComponent(termo) + filtros;
+
+        window.open(url, "_blank");
+    }
+    </script>
+</body>
+</html>

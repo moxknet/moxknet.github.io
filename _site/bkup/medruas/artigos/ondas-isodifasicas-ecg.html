@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>Como são criadas ondas isodifásicas no ECG</title>
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel='shortcut icon' type='image/x-icon' href='/favicon.ico'/>
+    <script data-goatcounter="https://moxk.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+  </head>
+  <body>
+    <nav>
+      <a href="/" style="font-weight: bold">Início</a> <span style="color:red">•</span>
+      <a href="/medicinadasruas" style="font-weight: bold">Medicina das Ruas</a> <span style="color:red">•</span>
+      <a href="https://x.com/MOXKnet">Twitter</a> <span style="color:red">•</span>
+      <a href="/sobre">Sobre</a> <span style="color:red">•</span>
+      <a href="/uso">Uso</a>
+      <hr>
+    </nav>
+    <h1>Como são criadas ondas isodifásicas no ECG</h1>
+      <p><em>Originalmente publicado na forma de uma thread no Twitter em 31 de agosto de 2020.<br />
+Decidi arquivar essa postagem por aqui, resgatando-a.</em></p>
+
+<p>Estava estudando ECG e encontrei essa imagem maravilhosa aqui que me fez finalmente entender como ondas isodifásicas são registradas.</p>
+
+<p><img src="/assets/img/medicina/ecg1.png" alt="1" /></p>
+
+<p>Quando eu aprendi ECG, me foi ensinado que o registro ocorre segundo a imagem abaixo. Mas pelo que tô estudando mais a fundo agora, ela parece ter um equívoco.</p>
+
+<p><img src="/assets/img/medicina/ecg2.png" alt="1" /></p>
+
+<p>Aqui a imagem está mostrando que vetores perpendiculares ao eixo dos eletrodos vão registrar ondas isodifásicas, mas isso está conceitualmente equivocado.</p>
+
+<p><img src="/assets/img/medicina/ecg3.png" alt="1" /></p>
+
+<p>Na verdade, o ECG registra a projeção do vetor elétrico resultante no eixo dos eletrodos.</p>
+
+<p><img src="/assets/img/medicina/ecg4.png" alt="1" /></p>
+
+<p>Então, se o vetor for perpendicular ao eixo dos eletrodos, não há nenhuma projeção. Dessa forma, vetores perpendiculares não causam nenhuma deflexão no ECG.</p>
+
+<p><img src="/assets/img/medicina/ecg5.png" alt="1" /></p>
+
+<p>Porém, o ECG registra a atividade elétrica ao longo do tempo. E o vetor resultante do coração varia a cada instante, ele muda o tempo todo de direção. E acontece que, quando ele gira em torno da linha perpendicular ao eixo dos eletrodos, aí sim é produzida uma onda difásica.</p>
+
+<p>O vetor resultante que fazia uma projeção negativa, mudou de direção e ficou perpendicular — retornando à linha isoelétrica — e depois mudou de novo de direção, ficando positivo. Foi da direção 1, para a 2 e depois para a 3.</p>
+
+<p><img src="/assets/img/medicina/ecg6.png" alt="1" /></p>
+
+<p>Aí é o seguinte: podemos ver no traçado que essas deflexões duraram 200 ms. Porém, a cada milissegundo o vetor resultante mudou de direção e girou em torno da linha perpendicular.</p>
+
+<p>Se calcularmos o vetor resultante desses 200 ms, aí sim teremos um vetor perpendicular que ‘produziu’ uma onda isodifásica. Mas isso só acontece pois estamos usando o vetor resultante médio de um intervalo de tempo de 200 ms e não o vetor resultante instantâneo.</p>
+
+<p>Se os vetores instantâneos positivos e negativos forem espelhados — a porção positiva igual mas oposta à negativa —, será produzida uma onda isodifásica. Como no caso de cima.</p>
+
+<p>Aqui tem exemplos de mais ondas difásicas mas não isodifásicas, pois as porções positivas e negativas são diferentes.</p>
+
+<p><img src="/assets/img/medicina/ecg7.png" alt="1" /></p>
+
+<p>Aqui é uma outra imagem bem legal mostrando o giro do vetor resultante instantâneo da despolarização ventricular. Ele muda de direção ao longo do tempo. Esse giro que é responsável por registrar o complexo QRS.</p>
+
+<p><img src="/assets/img/medicina/ecg8.png" alt="1" /></p>
+
+<p>Essa outra imagem mostra a variação na direção dos vetores e o respectivo traçado no ECG.</p>
+
+<p><img src="/assets/img/medicina/ecg9.jpeg" alt="1" /></p>
+
+<p>Enfim, é isso. Estou feliz por finalmente entender como ondas isodifásicas se formam no ECG. Esse conceito de o vetor resultante girar e mudar o tempo todo de direção abriu minha mente. Eu estava enxergando os vetores como estáticos e com direção fixa.</p>
+
+<h2 id="referências">Referências</h2>
+
+<p>As imagens e a explicação são desse livro fantástico aqui:</p>
+<ul>
+  <li>Stroobandt R, Barold SS, Sinnaeve AF. ECG from Basics to Essentials: Step by Step. John Wiley &amp; Sons, Inc; 2015.</li>
+</ul>
+
+  </body>
+</html>
