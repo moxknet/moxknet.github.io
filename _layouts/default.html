@@ -12,6 +12,14 @@
     <span><a href="/medruas">MedRuas</a></span> •
     <span><a href="/sobre">Sobre</a></span>
     <h1>{{ page.title }}</h1>
+
+    {% if page.date %}
+      <i class="post-date">Publicado em {{ page.date | date: "%d/%m/%Y" }}</i>
+      <br>
+      <br>
+    {% endif %}
+
+
     {{ content }}
     <br/>
     <hr/>
