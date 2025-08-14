@@ -32,9 +32,9 @@ Aqui vai ser meu diário (na verdade semanário e, talvez até mensário, pois R
 
 ## Prateleira dos meus papers favoritos
 
-- 2023 AFP - [Dizziness: Evaluation and Management](https://www.aafp.org/pubs/afp/issues/2023/0500/dizziness.html)
-- 2018 CHEST - [Cavitary Lung Diseases: A Clinical-Radiologic Algorithmic Approach](https://pubmed.ncbi.nlm.nih.gov/29518379/)
-
+- 2023 AFP -- [Dizziness: Evaluation and Management](https://www.aafp.org/pubs/afp/issues/2023/0500/dizziness.html)
+- 2018 CHEST -- [Cavitary Lung Diseases: A Clinical-Radiologic Algorithmic Approach](https://pubmed.ncbi.nlm.nih.gov/29518379/)
+- 2006 Radiology Assistant -- [HRCT - Basic Interpretation](https://radiologyassistant.nl/chest/hrct/basic-interpretation)
 
 ## Fontes de estudo:
 

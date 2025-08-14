@@ -25,8 +25,8 @@ Gosto muito do UpToDate que sempre trazem um parágrafo resumindo "quando suspei
 
 [^NEJM]: Cacoub P, Vieira M, Saadoun D. Cryoglobulinemia — one name for two diseases. Longo DL, ed. N Engl J Med. 2024;391(15):1426-1439. doi:10.1056/NEJMra2400092
 
-[^UTD-HPN]: Clinical manifestations and diagnosis of paroxysmal nocturnal hemoglobinuria. This topic last updated: Nov 27, 2024.
+[^UTD-HPN]: Clinical manifestations and diagnosis of paroxysmal nocturnal hemoglobinuria. UpToDate. This topic last updated: Nov 27, 2024.
 
-[^UTD-crio]: Overview of cryoglobulins and cryoglobulinemia. This topic last updated: Jun 10, 2024.
+[^UTD-crio]: Overview of cryoglobulins and cryoglobulinemia. UpToDate. This topic last updated: Jun 10, 2024.
 
-[^UTD-LES]: Systemic lupus erythematosus: Epidemiology and pathogenesis. This topic last updated: Nov 11, 2024.
+[^UTD-LES]: Systemic lupus erythematosus: Epidemiology and pathogenesis. UpToDate. This topic last updated: Nov 11, 2024.

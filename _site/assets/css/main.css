@@ -26,4 +26,12 @@ p {
   margin-top: 0;
 }
 
+code {
+  padding: 1px 5px;
+  border: 1px solid #62dec3;
+  border-radius: 3px;
+  font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+  background-color: #b1fcf1;
+}
+
 /*# sourceMappingURL=main.css.map */
