@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: index
 title: "Medicina das Ruas"
 ---
 
-![](kliniko.png)
+<img src="kliniko.png" alt="" style="display: block; margin: 0 auto;">
 
 Coluna de medicina do blog do Mosca, clínico em formação. Essa coluna é escrito por uma médico e destinada para outros médicos, não tem nenhuma pretensão de servir como aconselhamento à população geral. O objetivo aqui é contribuir para a educação médica.
 

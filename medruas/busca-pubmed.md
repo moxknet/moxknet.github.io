@@ -1,11 +1,7 @@
 ---
 layout: default
-title: "Busca no PubMed"
+title: "Busca filtrada no PubMed"
 ---
-
-⬅️ <a href="/medruas"> Voltar</a>
-
-## Busca filtrada no PubMed
 
 <form onsubmit="buscarPubmed(); return false;">
 <input type="text" id="termo" placeholder="Digite o termo (ex: pneumonia)" size="40" required>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="{{ site.lang | default: "pt-BR" }}">
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="utf-8">
-    <title>Jardim do Mosca 🌱</title>
-    <link rel="stylesheet" href="/assets/css/main.css">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <link rel='shortcut icon' type='image/x-icon' href='/medruas/favicon.ico'/>
   </head>
   <body>
@@ -13,20 +13,8 @@
       <span><a href="/medruas">MedRuas</a></span> •
       <span><a href="/sobre">Sobre</a></span>
     </div>
-    <h1>Jardim do Mosca 🌱</h1>
-
-    
-
-
-    <p>Site que funciona como um jardim, onde exibo e também cuido dos meus hobbies.</p>
-
-<ul>
-  <li><a href="/medruas">Medicina das Ruas</a></li>
-  <li><a href="/boardgames/jogos-tabuleiro">Jogos de tabuleiro</a></li>
-  <li><a href="/boardgames/baralho">Jogos de baralho</a></li>
-  <li>Aprendendo a digitar mais rápido: <a href="https://www.edclub.com/sportal/program-21.game">TypingClub</a></li>
-</ul>
-
+    <h1 class="title">{{ page.title }}</h1>
+    {{ content }}
     <br/>
     <hr/>
     <span xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">mosca.me &copy; 2025-2999

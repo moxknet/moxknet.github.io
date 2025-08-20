@@ -4,7 +4,6 @@ body {
   max-width: 900px;
   margin: 0 auto;
   padding: 10px;
-  background-color: rgb(203, 237, 230);
 }
 dt {font-weight: bold;}
 .footnotes {
@@ -25,4 +24,15 @@ code {
   border-radius: 3px;
   font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
   background-color: #b1fcf1;
+}
+.title {
+  text-align: center;
+  font-size: 38px;
+}
+.nav {
+  text-align: center;
+}
+form {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
