@@ -20,12 +20,15 @@ Aqui vai ser meu diário (na verdade semanário e, talvez até mensário, pois R
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date: "%d/%m/%Y" }}</span>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    {% if post.path contains 'medruas/' %}
+      <li>
+        <span>{{ post.date | date: "%d/%m/%Y" }}</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>
+
 
 ## Links úteis
 
@@ -43,4 +46,8 @@ Aqui vai ser meu diário (na verdade semanário e, talvez até mensário, pois R
 
 ## Fontes de estudo:
 
-- [Cleveland Clinic Journal of Medicine](https://www.ccjm.org/content/article-type)
+- [AFP journal](https://www.aafp.org/pubs/afp.html)
+- [NEJM review articles](https://www.nejm.org/browse/nejm-article-type/review-article)
+- [Nature reviews disease primers](https://www.nature.com/nrdp/reviews-and-analysis?type=primer)
+- [Annals of Internal Medicine In the Clinic](https://www.acpjournals.org/topic/category/in-the-clinic)
+- [Cleveland Clinic Journal of Medicine](https://www.ccjm.org/content/by/section/Review)
