@@ -12,5 +12,10 @@ Para fazer o travessão (—): aperte na sequência as teclas: `compose` + `-` +
 
 Para fazer o "_en dash_" (–): aperte na sequência as teclas: `compose` + `-` + `-` + `.`.
 
+Dá pra fazer o `≤` e `≥` também:
 
+- `Compose` + `<` + `=` → `≤`
+- `Compose` + `=` + `<` → `≤`
+- `Compose` + `>` + `=` → `≥`
+- `Compose` + `=` + `>` → `≥`
 
