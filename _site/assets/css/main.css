@@ -27,24 +27,19 @@ p {
 
 code {
   padding: 1px 5px;
-  border: 1px solid #62dec3;
+  border: 1px solid #abc1b9;
   border-radius: 3px;
   font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
-  background-color: #b1fcf1;
-}
-
-.title {
-  text-align: center;
-  font-size: 38px;
-}
-
-.nav {
-  text-align: center;
+  background-color: #def2ef;
 }
 
 form {
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.foot, .post-date {
+  text-align: center;
 }
 
 /*# sourceMappingURL=main.css.map */

@@ -8,8 +8,7 @@ title: "Busca filtrada no PubMed"
 <button type="submit">Buscar</button>
 </form>
 
-Essa ferramenta busca artigos de revisão nas revistas: NEJM, Lancet, JAMA, BMJ e Annals of Internal Medicine.
-
+<p>Essa ferramenta busca artigos de revisão nas revistas: NEJM, Lancet, JAMA, BMJ e Annals of Internal Medicine.</p>
 
 <script>
 function buscarPubmed() {
@@ -17,11 +16,13 @@ function buscarPubmed() {
     if (!termo) return;
 
     const baseUrl = "https://pubmed.ncbi.nlm.nih.gov/?term=";
-    const filtros = '+AND+("N+Engl+J+Med"[Journal]+OR+"Lancet"[Journal]+OR+"JAMA"[Journal]+OR+"Ann+Intern+Med"[Journal]+OR+"BMJ"[Journal])+AND+(Review[ptyp])&sort=date';
+    const filtros = '+AND+("N+Engl+J+Med"[Journal]+OR+"Lancet"[Journal]+OR+"JAMA"[Journal]+OR+"Ann+Intern+Med"[Journal]+OR+"BMJ"[Journal]+OR+"Am+Fam+Physician"[Journal])+AND+(Review[ptyp])&sort=date';
     const url = baseUrl + encodeURIComponent(termo) + filtros;
 
     window.open(url, "_blank");
 }
 </script>
+
+
 
 

@@ -9,7 +9,7 @@
   </head>
   <body>
     <div class="nav">
-      <span><a href="/">Jardim</a></span> •
+      <span><a href="/">Blog</a></span> •
       <span><a href="/medruas">MedRuas</a></span> •
       <span><a href="/sobre">Sobre</a></span>
     </div>
@@ -31,7 +31,7 @@ function buscarPubmed() {
     if (!termo) return;
 
     const baseUrl = "https://pubmed.ncbi.nlm.nih.gov/?term=";
-    const filtros = '+AND+("N+Engl+J+Med"[Journal]+OR+"Lancet"[Journal]+OR+"JAMA"[Journal]+OR+"Ann+Intern+Med"[Journal]+OR+"BMJ"[Journal])+AND+(Review[ptyp])&sort=date';
+    const filtros = '+AND+("N+Engl+J+Med"[Journal]+OR+"Lancet"[Journal]+OR+"JAMA"[Journal]+OR+"Ann+Intern+Med"[Journal]+OR+"BMJ"[Journal]+OR+"Am+Fam+Physician"[Journal])+AND+(Review[ptyp])&sort=date';
     const url = baseUrl + encodeURIComponent(termo) + filtros;
 
     window.open(url, "_blank");

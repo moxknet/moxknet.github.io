@@ -3,11 +3,16 @@ layout: index
 title: "Medicina das Ruas"
 ---
 
-<img src="kliniko.png" alt="" style="display: block; margin: 0 auto;">
+<img src="kliniko.png" alt="" style="display: block; float: right;">
 
-Coluna de medicina do blog do Mosca, clínico em formação. Essa coluna é escrito por uma médico e destinada para outros médicos, não tem nenhuma pretensão de servir como aconselhamento à população geral. O objetivo aqui é contribuir para a educação médica.
+<p style="font-size: 12px; max-width: 780px;">Coluna de medicina do blog do Mosca, clínico em formação. Essa coluna é escrito por uma médico e destinada para outros médicos, não tem nenhuma pretensão de servir como aconselhamento à população geral. O objetivo aqui é contribuir para a educação médica.</p>
 
-🔍 Ferramenta que criei: buscador de [revisões no PubMed](busca-pubmed)
+<hr>
+
+## Páginas
+
+- 🔍 Buscador de [revisões no PubMed](busca-pubmed) (eu que fiz!)
+- [Por onde estudo](fontes-estudo)
 
 ## Diário do R1
 
